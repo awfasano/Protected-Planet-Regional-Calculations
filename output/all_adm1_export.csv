@@ -1,0 +1,122 @@
+country_wb,geo_level,level0_name,level1_name,level2_name,value
+AFG,1,,Badakhshan,,29.41
+AFG,1,,Badghis,,0.0
+AFG,1,,Baghlan,,3.22
+AFG,1,,Balkh,,0.0
+AFG,1,,Bamyan,,31.19
+AFG,1,,Daykundi,,0.0
+AFG,1,,Farah,,0.0
+AFG,1,,Faryab,,0.0
+AFG,1,,Ghazni,,1.65
+AFG,1,,Ghor,,0.0
+AFG,1,,Hilmand,,0.0
+AFG,1,,Hirat,,0.0
+AFG,1,,Jawzjan,,0.0
+AFG,1,,Kabul,,0.04
+AFG,1,,Kandahar,,0.0
+AFG,1,,Kapisa,,0.0
+AFG,1,,Khost,,0.0
+AFG,1,,Kunar,,0.07
+AFG,1,,Kunduz,,7.22
+AFG,1,,Laghman,,0.0
+AFG,1,,Logar,,0.0
+AFG,1,,Nangarhar,,0.0
+AFG,1,,Nimroz,,0.0
+AFG,1,,Nuristan,,38.98
+AFG,1,,Paktika,,0.0
+AFG,1,,Paktya,,0.0
+AFG,1,,Panjshir,,0.0
+AFG,1,,Parwan,,0.0
+AFG,1,,Samangan,,0.0
+AFG,1,,Sari Pul,,0.0
+AFG,1,,Takhar,,5.04
+AFG,1,,Uruzgan,,0.0
+AFG,1,,Wardak,,0.41
+AFG,1,,Zabul,,0.0
+BGD,1,,Barisal,,1.37
+BGD,1,,Chittagong,,3.32
+BGD,1,,Dhaka,,1.4
+BGD,1,,Khulna,,20.8
+BGD,1,,Mymensingh,,0.12
+BGD,1,,Rajshahi,,0.04
+BGD,1,,Rangpur,,0.12
+BGD,1,,Sylhet,,0.71
+IND,1,,Andaman and Nicobar,,0.0
+IND,1,,Andhra Pradesh,,0.0
+IND,1,,Arunachal Pradesh,,0.0
+IND,1,,Arunachal Pradesh,,0.0
+IND,1,,Assam,,1.11
+IND,1,,Bihar,,0.0
+IND,1,,Chandigarh,,0.0
+IND,1,,Chhattisgarh,,0.0
+IND,1,,Dadra and Nagar Haveli,,0.0
+IND,1,,Daman and Diu,,0.0
+IND,1,,Goa,,0.0
+IND,1,,Gujarat,,0.0
+IND,1,,Haryana,,0.0
+IND,1,,Himachal Pradesh,,1.49
+IND,1,,Himachal Pradesh,,0.0
+IND,1,,Himachal Pradesh,,0.0
+IND,1,,Jammu and Kashmir,,0.05
+IND,1,,Jharkhand,,0.0
+IND,1,,Karnataka,,0.9
+IND,1,,Kerala,,8.79
+IND,1,,Lakshadweep,,0.0
+IND,1,,Madhya Pradesh,,0.0
+IND,1,,Maharashtra,,0.39
+IND,1,,Manipur,,1.22
+IND,1,,Meghalaya,,0.0
+IND,1,,Mizoram,,0.0
+IND,1,,Nagaland,,0.0
+IND,1,,NCT of Delhi,,0.0
+IND,1,,Odisha,,0.8
+IND,1,,Puducherry,,0.0
+IND,1,,Punjab,,0.0
+IND,1,,Rajasthan,,0.07
+IND,1,,Sikkim,,24.5
+IND,1,,Tamil Nadu,,1.46
+IND,1,,Telangana,,0.0
+IND,1,,Tripura,,0.0
+IND,1,,Uttar Pradesh,,0.0
+IND,1,,Uttarakhand,,10.14
+IND,1,,Uttarakhand,,97.07
+IND,1,,Uttarakhand,,0.0
+IND,1,,West Bengal,,0.98
+LKA,1,,Ampara,,48.3
+LKA,1,,Anuradhapura,,23.94
+LKA,1,,Badulla,,20.46
+LKA,1,,Batticaloa,,39.16
+LKA,1,,Colombo,,4.03
+LKA,1,,Galle,,10.6
+LKA,1,,Gampaha,,1.28
+LKA,1,,Hambantota,,29.55
+LKA,1,,Jaffna,,0.82
+LKA,1,,Kalutara,,2.81
+LKA,1,,Kandy,,25.11
+LKA,1,,Kegalle,,4.71
+LKA,1,,Kilinochchi,,41.54
+LKA,1,,Kurunegala,,6.12
+LKA,1,,Mannar,,57.42
+LKA,1,,Matale,,30.23
+LKA,1,,Matara,,14.18
+LKA,1,,Moneragala,,38.4
+LKA,1,,Mullaitivu,,60.66
+LKA,1,,Nuwara Eliya,,18.93
+LKA,1,,Polonnaruwa,,48.92
+LKA,1,,Puttalam,,28.38
+LKA,1,,Ratnapura,,13.18
+LKA,1,,Trincomalee,,46.7
+LKA,1,,Vavuniya,,35.86
+NPL,1,,Central,,25.34
+NPL,1,,East,,21.01
+NPL,1,,Far-Western,,15.47
+NPL,1,,Mid-Western,,19.42
+NPL,1,,West,,35.32
+PAK,1,,Azad Kashmir,,1.97
+PAK,1,,Balochistan,,2.91
+PAK,1,,Federally Administered Tribal Ar,,2.69
+PAK,1,,Gilgit-Baltistan,,9.2
+PAK,1,,Islamabad,,10.03
+PAK,1,,Khyber-Pakhtunkhwa,,2.12
+PAK,1,,Punjab,,17.98
+PAK,1,,Sindh,,18.96
