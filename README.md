@@ -5,7 +5,7 @@
 > I believe the mismatch is related to **disputed or independent territories** not being returned when you use the search api with the country parameter.  The number of protected areas does match what is on the website.
 > This issue hopefully **should not impact ADM1 or ADM2 calculations**, but I'm actively investigating to ensure consistency at all levels. 
 
-This repository contains a Python script that retrieves protected area data from the Protected Planet API, processes it alongside local administrative boundary data (ADM0, ADM1, and ADM2) from GADM, calculates the percentage of area protected at each level, and exports the results as both shapefiles and CSV files.
+This repository contains the Python script, regionProtectedPlanetDraft.py, that retrieves protected area data from the Protected Planet API, processes it alongside local administrative boundary data (ADM0, ADM1, and ADM2) from GADM, calculates the percentage of area protected at each level, and exports the results as both shapefiles and CSV files.
 
 ## Overview
 
