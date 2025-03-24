@@ -15,10 +15,9 @@ API_KEY = "15514395b80ee101b6bcdee785a6445a"  # Replace with your API token
 def fetch_api_protected_areas(country_code):
     """
     Fetches WDPA protected areas for the given country using the /protected_areas/search endpoint.
-    Uses pagination(per_page=50) to retrieve all pages.
+    Uses pagination (per_page=50) to retrieve all pages.
     For features that are Points, creates a buffer based on the reported area.
-    We reproject everything to Mollweide projection.  This is the same projection that is used in their
-    national calculations
+    Reprojects everything to the Mollweide projection (same as used in national calculations).
     """
     all_features = []
     page = 1
@@ -51,7 +50,6 @@ def fetch_api_protected_areas(country_code):
 
         geom = None
         geom_type = geojson_data["type"]
-        # If the API returns a Feature wrapper:
         if geom_type == "Feature":
             geom = shape(geojson_data["geometry"])
             actual_type = geom.geom_type
@@ -60,24 +58,20 @@ def fetch_api_protected_areas(country_code):
             if actual_type in ["Polygon", "MultiPolygon"]:
                 geom = shape(geojson_data)
             elif actual_type == "Point":
-                # Buffer a point based on reported area.
                 try:
                     rep_area = float(area.get("reported_area")) if area.get("reported_area") is not None else np.nan
                 except Exception:
                     rep_area = np.nan
                 if not np.isnan(rep_area) and rep_area > 0:
-                    # Calculate radius: sqrt(area / pi)*1000 (meters)
-                    radius = (rep_area / 3.14159) ** 0.5 * 1000
+                    radius = (rep_area / 3.14159) ** 0.5 * 1000  # in meters
                 else:
                     radius = 1000  # default buffer size in meters
-                # Create a GeoDataFrame for the point, reproject to Mollweide, buffer, then reproject back.
                 point_geom = shape(geojson_data)
                 gdf_point = gpd.GeoDataFrame(geometry=[point_geom], crs="EPSG:4326")
                 gdf_point = gdf_point.to_crs('+proj=moll +lon_0=0 +datum=WGS84 +units=m +no_defs')
                 buffered_geom = gdf_point.buffer(radius).iloc[0]
-                # Reproject back to EPSG:4326
-                buffered_geom = \
-                gpd.GeoSeries([buffered_geom], crs='+proj=moll +lon_0=0 +datum=WGS84 +units=m +no_defs').to_crs(
+                buffered_geom = gpd.GeoSeries([buffered_geom],
+                                              crs='+proj=moll +lon_0=0 +datum=WGS84 +units=m +no_defs').to_crs(
                     "EPSG:4326").iloc[0]
                 geom = buffered_geom
             else:
@@ -188,11 +182,10 @@ def calculate_protected_area_coverage(admin_boundaries, protected_areas, id_fiel
     """
     Calculates the percentage of each administrative unit covered by protected areas.
 
-    For ADM0 (level=='country'): Instead of using a spatial union, we sum the areas of all
-    admin boundary features (denom.) and sum the areas of all protected areas (numerator) using the
-    Mollweide projection.
+    For ADM0 (level=='country'): Sums the area of all admin boundaries and all protected areas
+    using the Mollweide projection.
 
-    For ADM1/ADM2, the overlay method is used.
+    For ADM1/ADM2, a spatial overlay (intersection) is used.
     """
     proj_moll = '+proj=moll +lon_0=0 +datum=WGS84 +units=m +no_defs'
     if level == 'country':
@@ -204,12 +197,17 @@ def calculate_protected_area_coverage(admin_boundaries, protected_areas, id_fiel
         print(f"Protected area (km²): {protected_area:.2f}")
         print(f"Protected percentage: {round(protected_percentage, 2)}%")
         data = {
-            id_field: [admin_boundaries.iloc[0][id_field] if id_field in admin_boundaries.columns else ""],
-            name_field: [admin_boundaries.iloc[0][name_field] if name_field in admin_boundaries.columns else ""],
+            id_field: [admin_boundaries.iloc[0][id_field] if id_field in admin_boundaries.columns else ""]
+        }
+        if name_field in admin_boundaries.columns:
+            data[name_field] = [admin_boundaries.iloc[0][name_field]]
+        else:
+            data[name_field] = [""]
+        data.update({
             "total_area_km2": [total_area],
             "protected_area_km2": [protected_area],
             "protected_percentage": [round(protected_percentage, 2)]
-        }
+        })
         country_boundary = admin_boundaries.unary_union
         result = gpd.GeoDataFrame(data, geometry=[country_boundary], crs=admin_boundaries.crs)
         summary = result.copy()
@@ -302,7 +300,6 @@ def process_country(country_code, project_dir, output_dir):
     adm0_file = os.path.join(adm_folder, f"{country_code}_shp_0", f"gadm41_{country_code}_0.shp")
     adm1_file = os.path.join(adm_folder, f"{country_code}_shp_1", f"gadm41_{country_code}_1.shp")
     adm2_file = os.path.join(adm_folder, f"{country_code}_shp_2", f"gadm41_{country_code}_2.shp")
-
     print(f"Loading admin boundaries for {country_code} from {adm_folder}")
     try:
         adm0 = load_shapefile(adm0_file)
@@ -314,23 +311,20 @@ def process_country(country_code, project_dir, output_dir):
 
     # STEP 4b: For ADM0, combine all territories using unary_union.
     country_boundary = adm0.unary_union
-    country_name = ""
-    if "NAME_0" in adm0.columns:
-        try:
-            country_name = adm0.iloc[0]["NAME_0"]
-        except Exception:
-            country_name = ""
+    # Use the country code as the level0_code and (if available) the country name from a NAME_0 field.
+    country_name = adm0.iloc[0]["NAME_0"] if "NAME_0" in adm0.columns else ""
     adm0 = gpd.GeoDataFrame({
-        "GID_0": [country_code],
-        "NAME_0": [country_name]
+        "GID_0": [country_code]
     }, geometry=[country_boundary], crs=adm0.crs)
+    # We add the country name as an extra field for later use.
+    adm0["NAME_0"] = country_name
 
     # STEP 5: Calculate coverage at each admin level
     adm0_id_field = "GID_0"
     adm0_name_field = "NAME_0"
-    adm1_id_field = "GID_1"
+    adm1_id_field = "GID_1"  # from overlay for provinces
     adm1_name_field = "NAME_1"
-    adm2_id_field = "GID_2"
+    adm2_id_field = "GID_2"  # from overlay for districts
     adm2_name_field = "NAME_2"
 
     adm0_result, adm0_summary = calculate_protected_area_coverage(adm0, flat_pas, adm0_id_field, adm0_name_field,
@@ -345,40 +339,70 @@ def process_country(country_code, project_dir, output_dir):
     save_results(adm1_result, os.path.join(country_output_dir, "adm1_protected_areas.shp"))
     save_results(adm2_result, os.path.join(country_output_dir, "adm2_protected_areas.shp"))
 
-    # STEP 6: Build CSV rows with columns:
-    # country_wb, geo_level, level0_name, level1_name, level2_name, value
+    # STEP 6: Build CSV rows with the following columns:
+    # country_wb, geo_level, level0_code, level0_name, level1_code, level1_name, level2_code, level2_name, indicator, indicator_label, value, year
+
+    # ADM0 (Country)
     adm0_rows = pd.DataFrame({
         "country_wb": [country_code],
         "geo_level": [0],
+        "level0_code": [country_code],
         "level0_name": [country_name],
+        "level1_code": [""],
         "level1_name": [""],
+        "level2_code": [""],
         "level2_name": [""],
-        "value": [adm0_result.iloc[0]["protected_percentage"]]
+        "indicator": [""],
+        "indicator_label": [""],
+        "value": [adm0_result.iloc[0]["protected_percentage"]],
+        "year": [""]
     })
     global global_adm0
     global_adm0.append(adm0_rows)
 
-    adm1_rows = pd.DataFrame({
-        "country_wb": [country_code] * len(adm1_result),
-        "geo_level": [1] * len(adm1_result),
-        "level0_name": [country_name] * len(adm1_result),
-        "level1_name": adm1_result[adm1_name_field] if (adm1_name_field in adm1_result.columns) else ["" for _ in range(
-            len(adm1_result))],
-        "level2_name": ["" for _ in range(len(adm1_result))],
-        "value": adm1_result["protected_percentage"]
-    })
+    # ADM1 (Province) – use overlay result columns
+    adm1_rows = adm1_result.copy()
+    # Create new columns using the overlay fields
+    adm1_rows = adm1_rows.assign(
+        country_wb=country_code,
+        geo_level=1,
+        level0_code=adm1_rows["GID_0"],
+        level0_name=country_name,
+        level1_code=adm1_rows["GID_1"],
+        level1_name=adm1_rows["NAME_1"],
+        level2_code="",
+        level2_name="",
+        indicator="",
+        indicator_label="",
+        value=adm1_rows["protected_percentage"],
+        year=""
+    )
+    # Select only the required columns
+    adm1_rows = adm1_rows[["country_wb", "geo_level", "level0_code", "level0_name",
+                           "level1_code", "level1_name", "level2_code", "level2_name",
+                           "indicator", "indicator_label", "value", "year"]]
     global global_adm1
     global_adm1.append(adm1_rows)
 
-    adm2_rows = pd.DataFrame({
-        "country_wb": [country_code] * len(adm2_result),
-        "geo_level": [2] * len(adm2_result),
-        "level0_name": [country_name] * len(adm2_result),
-        "level1_name": ["" for _ in range(len(adm2_result))],
-        "level2_name": adm2_result[adm2_name_field] if (adm2_name_field in adm2_result.columns) else ["" for _ in range(
-            len(adm2_result))],
-        "value": adm2_result["protected_percentage"]
-    })
+    # ADM2 (District) – use overlay result columns
+    adm2_rows = adm2_result.copy()
+    adm2_rows = adm2_rows.assign(
+        country_wb=country_code,
+        geo_level=2,
+        level0_code=adm2_rows["GID_0"],
+        level0_name=country_name,
+        level1_code=adm2_rows["GID_1"],
+        level1_name=adm2_rows["NAME_1"],
+        level2_code=adm2_rows["GID_2"],
+        level2_name=adm2_rows["NAME_2"],
+        indicator="",
+        indicator_label="",
+        value=adm2_rows["protected_percentage"],
+        year=""
+    )
+    adm2_rows = adm2_rows[["country_wb", "geo_level", "level0_code", "level0_name",
+                           "level1_code", "level1_name", "level2_code", "level2_name",
+                           "indicator", "indicator_label", "value", "year"]]
     global global_adm2
     global_adm2.append(adm2_rows)
 
@@ -389,7 +413,7 @@ def main():
     project_dir = "/Users/awfasano/PycharmProjects/Protected-Planet-Regional-Calculations"
     output_dir = os.path.join(project_dir, "output")
     os.makedirs(output_dir, exist_ok=True)
-    countries = ["AFG", "BGD", "IND", "LKA", "MDV", "NPL", "PAK"]
+    countries = ["AFG", "BGD", "BTN", "IND", "LKA", "MDV", "NPL", "PAK"]
 
     for country in countries:
         process_country(country, project_dir, output_dir)

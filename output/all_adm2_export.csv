@@ -1,1438 +1,1643 @@
-country_wb,geo_level,level0_name,level1_name,level2_name,value
-AFG,2,,,Baharak,0.0
-AFG,2,,,Darwaz,0.0
-AFG,2,,,Fayzabad,0.0
-AFG,2,,,Ishkashim,0.0
-AFG,2,,,Jurm,0.0
-AFG,2,,,Khwahan,0.0
-AFG,2,,,Kishim,0.0
-AFG,2,,,Kuran Wa Munjan,47.01
-AFG,2,,,Ragh,0.0
-AFG,2,,,Shahri Buzurg,0.0
-AFG,2,,,Shighnan,0.0
-AFG,2,,,Wakhan,97.11
-AFG,2,,,Zebak,0.16
-AFG,2,,,Ab Kamari,0.0
-AFG,2,,,Ghormach,0.0
-AFG,2,,,Jawand,0.0
-AFG,2,,,Muqur,0.0
-AFG,2,,,Murghab,0.0
-AFG,2,,,Qadis,0.0
-AFG,2,,,Qala-I-Naw,0.0
-AFG,2,,,Andarab,0.0
-AFG,2,,,Baghlan City,0.0
-AFG,2,,,Baghlani Jadid,0.0
-AFG,2,,,Burka,0.0
-AFG,2,,,Dahana-I-Ghori,0.0
-AFG,2,,,Doshi,0.0
-AFG,2,,,Kahmard,19.14
-AFG,2,,,Khinjan,0.0
-AFG,2,,,Khost Wa Firing,0.0
-AFG,2,,,Nahrin,0.0
-AFG,2,,,Puli Khumri,0.0
-AFG,2,,,Tala Wa Barfak,0.0
-AFG,2,,,Balkh,0.0
-AFG,2,,,Char Bolak,0.0
-AFG,2,,,Charkint,0.0
-AFG,2,,,Chimtal,0.0
-AFG,2,,,Dawlat abad,0.0
-AFG,2,,,Dihdadi,0.0
-AFG,2,,,Kaldar,0.0
-AFG,2,,,Khulm,0.0
-AFG,2,,,Kishindih,0.0
-AFG,2,,,Marmul,0.0
-AFG,2,,,Mazar-i-Sharif,0.0
-AFG,2,,,Nahri Shahi,0.0
-AFG,2,,,Sholgara,0.0
-AFG,2,,,Shortepa,0.0
-AFG,2,,,Bamyan City,16.51
-AFG,2,,,Panjab,0.35
-AFG,2,,,Shibar,4.32
-AFG,2,,,Waras,0.0
-AFG,2,,,Yakawlang,65.23
-AFG,2,,,Day Kundi,0.0
-AFG,2,,,Gizab,0.0
-AFG,2,,,Kijran,0.0
-AFG,2,,,Shahristan,0.0
-AFG,2,,,Anar Dara,0.0
-AFG,2,,,Bakwa,0.0
-AFG,2,,,Bala Buluk,0.0
-AFG,2,,,Farah City,0.0
-AFG,2,,,Gulistan,0.0
-AFG,2,,,Khaki Safed,0.0
-AFG,2,,,Lash Wa Juwayn,0.0
-AFG,2,,,Purchaman,0.0
-AFG,2,,,Pusht Rod,0.0
-AFG,2,,,Qala-I-Kah,0.0
-AFG,2,,,Shib Koh,0.0
-AFG,2,,,Almar,0.0
-AFG,2,,,Andkhoy,0.0
-AFG,2,,,Bilchiragh,0.0
-AFG,2,,,Dawlat abad,0.0
-AFG,2,,,Khan Char Bagh,0.0
-AFG,2,,,Khwaja Sabz Posh,0.0
-AFG,2,,,Kohistan,0.0
-AFG,2,,,Maymana,0.0
-AFG,2,,,Pashtun Kot,0.0
-AFG,2,,,Qaram Qol,0.0
-AFG,2,,,Qaysar,0.0
-AFG,2,,,Shirin Tagab,0.0
-AFG,2,,,Ab Band,0.0
-AFG,2,,,Ajristan,0.0
-AFG,2,,,Andar,0.0
-AFG,2,,,Dihyak,0.0
-AFG,2,,,Gelan,0.0
-AFG,2,,,Ghazni,0.0
-AFG,2,,,Giro,0.0
-AFG,2,,,Jaghatu,0.0
-AFG,2,,,Jaghuri,0.0
-AFG,2,,,Malistan,0.0
-AFG,2,,,Muqur,0.0
-AFG,2,,,Nawa,0.0
-AFG,2,,,Nawur,6.85
-AFG,2,,,Qarabagh,0.0
-AFG,2,,,Zana Khan,0.0
-AFG,2,,,Chaghcharan,0.0
-AFG,2,,,Lal Wa Sarjangal,0.0
-AFG,2,,,Pasaband,0.0
-AFG,2,,,Saghar,0.0
-AFG,2,,,Shahrak,0.0
-AFG,2,,,Taywara,0.0
-AFG,2,,,Tulak,0.0
-AFG,2,,,Bughran,0.0
-AFG,2,,,Disho,0.0
-AFG,2,,,Garmser,0.0
-AFG,2,,,Kajaki,0.0
-AFG,2,,,Lashkargah,0.0
-AFG,2,,,Musa Qala,0.0
-AFG,2,,,Nad Ali,0.0
-AFG,2,,,Nahri Sarraj,0.0
-AFG,2,,,Naw Zad,0.0
-AFG,2,,,Nawa-i-Barak Zayi,0.0
-AFG,2,,,Reg,0.0
-AFG,2,,,Sangin,0.0
-AFG,2,,,Washer,0.0
-AFG,2,,,Adraskan,0.0
-AFG,2,,,Chishti Sharif,0.0
-AFG,2,,,Farsi,0.0
-AFG,2,,,Ghoryan,0.0
-AFG,2,,,Gulran,0.0
-AFG,2,,,Guzara,0.0
-AFG,2,,,Hirat City,0.0
-AFG,2,,,Injil,0.0
-AFG,2,,,Karukh,0.0
-AFG,2,,,Kuhsan,0.0
-AFG,2,,,Kushk,0.0
-AFG,2,,,Kushki Kuhna,0.0
-AFG,2,,,Obe,0.0
-AFG,2,,,Pashtun Zarghun,0.0
-AFG,2,,,Shindand,0.0
-AFG,2,,,Zinda Jan,0.0
-AFG,2,,,Aqcha,0.0
-AFG,2,,,Darzab,0.0
-AFG,2,,,Fayz abad,0.0
-AFG,2,,,Khamyab,0.0
-AFG,2,,,Khwaja Du Koh,0.0
-AFG,2,,,Mardyan,0.0
-AFG,2,,,Mingajik,0.0
-AFG,2,,,Qarqin,0.0
-AFG,2,,,Shibirghan,0.0
-AFG,2,,,Bagrami,0.51
-AFG,2,,,Chahar Asyab,0.0
-AFG,2,,,Dih Sabz,0.0
-AFG,2,,,Gul dara,0.0
-AFG,2,,,Istalif,0.0
-AFG,2,,,Kabul City,0.0
-AFG,2,,,Kalakan,0.0
-AFG,2,,,Khaki Jabar,0.0
-AFG,2,,,Mirbacha Kot,0.0
-AFG,2,,,Musayi,0.0
-AFG,2,,,Paghman,0.0
-AFG,2,,,Qarabagh,0.0
-AFG,2,,,Shakar Dara,0.0
-AFG,2,,,Surobi,0.0
-AFG,2,,,Arghandab,0.0
-AFG,2,,,Arghistan,0.0
-AFG,2,,,Daman,0.0
-AFG,2,,,Ghorak,0.0
-AFG,2,,,Kandahar City,0.0
-AFG,2,,,Khakrez,0.0
-AFG,2,,,Maruf,0.0
-AFG,2,,,Maywand,0.0
-AFG,2,,,Panjwayi,0.0
-AFG,2,,,Reg,0.0
-AFG,2,,,Shah Wali Kot,0.0
-AFG,2,,,Shorabak,0.0
-AFG,2,,,Spin Boldak,0.0
-AFG,2,,,Alasay,0.0
-AFG,2,,,Kohband,0.0
-AFG,2,,,Kohistan,0.0
-AFG,2,,,Mahmud Raqi,0.0
-AFG,2,,,Nijrab,0.0
-AFG,2,,,Tagab,0.0
-AFG,2,,,Bak,0.0
-AFG,2,,,Gurbuz,0.0
-AFG,2,,,Jaji Maydan,0.0
-AFG,2,,,Khost (Matun),0.0
-AFG,2,,,Mando Zayi,0.0
-AFG,2,,,Musa Khel,0.0
-AFG,2,,,Nadir Shah Kot,0.0
-AFG,2,,,Qalandar,0.0
-AFG,2,,,Sabari,0.0
-AFG,2,,,Spera,0.0
-AFG,2,,,Tani,0.0
-AFG,2,,,Tere Zayi,0.0
-AFG,2,,,Asad abad,0.0
-AFG,2,,,Bar Kunar,0.0
-AFG,2,,,Chapa Dara,0.7
-AFG,2,,,Chawkay,0.0
-AFG,2,,,Dangam,0.0
-AFG,2,,,Dara-i-Pech,0.0
-AFG,2,,,Khas Kunar,0.0
-AFG,2,,,Marwara,0.0
-AFG,2,,,Nali,0.0
-AFG,2,,,Narang Wa Badil,0.0
-AFG,2,,,Nurgal,0.0
-AFG,2,,,Sirkanay,0.0
-AFG,2,,,Ali abad,0.0
-AFG,2,,,Char Dara,0.0
-AFG,2,,,Dashti Archi,0.0
-AFG,2,,,Hazrati Imam,27.83
-AFG,2,,,Khan Abad,0.0
-AFG,2,,,Kunduz,0.0
-AFG,2,,,Qala-I-Zal,6.4
-AFG,2,,,Alingar,0.0
-AFG,2,,,Alishing,0.0
-AFG,2,,,Dawlat Shah,0.0
-AFG,2,,,Mihtarlam,0.0
-AFG,2,,,Qarghayi,0.0
-AFG,2,,,Baraki Barak,0.0
-AFG,2,,,Charkh,0.0
-AFG,2,,,Khushi,0.0
-AFG,2,,,Muhammad Agha,0.0
-AFG,2,,,Puli Alam,0.0
-AFG,2,,,Achin,0.0
-AFG,2,,,Bati Kot,0.0
-AFG,2,,,Chaparhar,0.0
-AFG,2,,,Dara-I-Nur,0.0
-AFG,2,,,Dih Bala,0.0
-AFG,2,,,Dur Baba,0.0
-AFG,2,,,Goshta,0.0
-AFG,2,,,Hisarak,0.0
-AFG,2,,,Jalal abad,0.0
-AFG,2,,,Kama,0.0
-AFG,2,,,Khogyani,0.0
-AFG,2,,,Kuz Kunar,0.0
-AFG,2,,,Lal Pur,0.0
-AFG,2,,,Muhmand Dara,0.0
-AFG,2,,,Nazyan,0.0
-AFG,2,,,Pachir Wa Agam,0.0
-AFG,2,,,Rodat,0.0
-AFG,2,,,Sherzad,0.0
-AFG,2,,,Shinwar,0.0
-AFG,2,,,Surkh Rod,0.0
-AFG,2,,,Chakhansur,0.0
-AFG,2,,,Char Burjak,0.0
-AFG,2,,,Kang,0.0
-AFG,2,,,Khash Rod,0.0
-AFG,2,,,Zaranj,0.0
-AFG,2,,,Bargi Matal,61.47
-AFG,2,,,Kamdesh,3.59
-AFG,2,,,Mandol,16.54
-AFG,2,,,Nuristan,32.93
-AFG,2,,,Wama,85.55
-AFG,2,,,Waygal,8.61
-AFG,2,,,Burmul,0.0
-AFG,2,,,Dila,0.0
-AFG,2,,,Gayan,0.0
-AFG,2,,,Gomal,0.0
-AFG,2,,,Mata Khan,0.0
-AFG,2,,,Nika,0.0
-AFG,2,,,Omna,0.0
-AFG,2,,,Sar Hawza,0.0
-AFG,2,,,Sarobi,0.0
-AFG,2,,,Sharan,0.0
-AFG,2,,,Urgun,0.0
-AFG,2,,,Wazakhwa,0.0
-AFG,2,,,Wolmamay,0.0
-AFG,2,,,Zarghun Shahr,0.0
-AFG,2,,,Ziluk,0.0
-AFG,2,,,Azro,0.0
-AFG,2,,,Chamkani,0.0
-AFG,2,,,Dand Wa Patan,0.0
-AFG,2,,,Gardez,0.0
-AFG,2,,,Jadran,0.0
-AFG,2,,,Jaji,0.0
-AFG,2,,,Jani Khel,0.0
-AFG,2,,,Lija Mangal,0.0
-AFG,2,,,Sayid Karam,0.0
-AFG,2,,,Shamul,0.0
-AFG,2,,,Shwak,0.0
-AFG,2,,,Zurmat,0.0
-AFG,2,,,Hisa-I-Awali Panjsher,0.0
-AFG,2,,,Hisa-I-Duwum Panjsher,0.0
-AFG,2,,,Panjsher,0.0
-AFG,2,,,Bagram,0.0
-AFG,2,,,Chaharikar,0.0
-AFG,2,,,Ghorband,0.0
-AFG,2,,,Jabalussaraj,0.0
-AFG,2,,,Kohi Safi,0.0
-AFG,2,,,Salang,0.0
-AFG,2,,,Shekh Ali,0.0
-AFG,2,,,Shinwari,0.0
-AFG,2,,,Surkhi Parsa,0.0
-AFG,2,,,Aybak,0.0
-AFG,2,,,Dara-i-Suf,0.0
-AFG,2,,,Hazrati Sultan,0.0
-AFG,2,,,Khuram Wa Sarbagh,0.0
-AFG,2,,,Royi Du Ab,0.0
-AFG,2,,,Balkhab,0.0
-AFG,2,,,Kohistanat,0.0
-AFG,2,,,Sangcharak,0.0
-AFG,2,,,Sar-i-Pul City,0.0
-AFG,2,,,Sayyad,0.0
-AFG,2,,,Sozma Qala,0.0
-AFG,2,,,Bangi,0.0
-AFG,2,,,Chah Ab,0.0
-AFG,2,,,Chal,0.0
-AFG,2,,,Darqad,99.42
-AFG,2,,,Farkhar,0.0
-AFG,2,,,Ishkamish,0.0
-AFG,2,,,Kalafgan,0.0
-AFG,2,,,Khwaja Ghar,0.0
-AFG,2,,,Rustaq,0.0
-AFG,2,,,Taluqan,0.0
-AFG,2,,,Warsaj,0.0
-AFG,2,,,Yangi Qala,14.52
-AFG,2,,,Chora,0.0
-AFG,2,,,Dihrawud,0.0
-AFG,2,,,Khas Uruzgan,0.0
-AFG,2,,,Nesh,0.0
-AFG,2,,,Shahidi Hasas,0.0
-AFG,2,,,Tirin Kot,0.0
-AFG,2,,,Chak,0.0
-AFG,2,,,Daymirdad,0.0
-AFG,2,,,Hisa-i-Awali Bihsud,0.02
-AFG,2,,,Jalrez,0.0
-AFG,2,,,Markazi Bihsud,1.46
-AFG,2,,,Maydan Shahr,0.0
-AFG,2,,,Nirkh,0.0
-AFG,2,,,Sayid Abad,0.0
-AFG,2,,,Arghandab,0.0
-AFG,2,,,Atghar,0.0
-AFG,2,,,Daychopan,0.0
-AFG,2,,,Mizan,0.0
-AFG,2,,,Qalat,0.0
-AFG,2,,,Shahjoy,0.0
-AFG,2,,,Shamul zayi,0.0
-AFG,2,,,Shinkay,0.0
-AFG,2,,,Tarnak Wa Jaldak,0.0
-BGD,2,,,Barguna,2.05
-BGD,2,,,Barisal,0.0
-BGD,2,,,Bhola,4.47
-BGD,2,,,Jhalokati,0.0
-BGD,2,,,Patuakhali,1.04
-BGD,2,,,Pirojpur,0.0
-BGD,2,,,Bandarban,1.39
-BGD,2,,,Brahamanbaria,0.0
-BGD,2,,,Chandpur,0.0
-BGD,2,,,Chittagong,3.73
-BGD,2,,,Comilla,0.0
-BGD,2,,,Cox'S Bazar,11.72
-BGD,2,,,Feni,0.0
-BGD,2,,,Khagrachhari,0.0
-BGD,2,,,Lakshmipur,0.0
-BGD,2,,,Noakhali,2.14
-BGD,2,,,Rangamati,8.59
-BGD,2,,,Dhaka,0.05
-BGD,2,,,Faridpur,0.32
-BGD,2,,,Gazipur,5.19
-BGD,2,,,Gopalganj,0.0
-BGD,2,,,Kishoreganj,0.0
-BGD,2,,,Madaripur,4.42
-BGD,2,,,Manikganj,0.0
-BGD,2,,,Munshiganj,1.91
-BGD,2,,,Narayanganj,0.0
-BGD,2,,,Narsingdi,0.0
-BGD,2,,,Rajbari,0.0
-BGD,2,,,Shariatpur,3.22
-BGD,2,,,Tangail,2.25
-BGD,2,,,Bagerhat,45.56
-BGD,2,,,Chuadanga,0.0
-BGD,2,,,Jessore,0.0
-BGD,2,,,Jhenaidah,0.0
-BGD,2,,,Khulna,42.41
-BGD,2,,,Kushtia,0.0
-BGD,2,,,Magura,0.0
-BGD,2,,,Meherpur,0.0
-BGD,2,,,Narail,0.0
-BGD,2,,,Satkhira,32.57
-BGD,2,,,Jamalpur,0.0
-BGD,2,,,Mymensingh,0.29
-BGD,2,,,Netrakona,0.0
-BGD,2,,,Sherpur,0.0
-BGD,2,,,Bogra,0.0
-BGD,2,,,Joypurhat,0.0
-BGD,2,,,Naogaon,0.06
-BGD,2,,,Natore,0.0
-BGD,2,,,Nawabganj,0.0
-BGD,2,,,Pabna,0.19
-BGD,2,,,Rajshahi,0.0
-BGD,2,,,Sirajganj,0.0
-BGD,2,,,Dinajpur,0.55
-BGD,2,,,Gaibandha,0.0
-BGD,2,,,Kurigram,0.0
-BGD,2,,,Lalmonirhat,0.0
-BGD,2,,,Nilphamari,0.0
-BGD,2,,,Panchagarh,0.0
-BGD,2,,,Rangpur,0.0
-BGD,2,,,Thakurgaon,0.0
-BGD,2,,,Habiganj,2.04
-BGD,2,,,Maulvibazar,0.92
-BGD,2,,,Sunamganj,0.0
-BGD,2,,,Sylhet,0.29
-IND,2,,,Nicobar Islands,0.0
-IND,2,,,North and Middle Andaman,0.0
-IND,2,,,South Andaman,0.0
-IND,2,,,Anantapur,0.0
-IND,2,,,Chittoor,0.0
-IND,2,,,East Godavari,0.0
-IND,2,,,Guntur,0.0
-IND,2,,,Krishna,0.0
-IND,2,,,Kurnool,0.0
-IND,2,,,Nellore,0.0
-IND,2,,,Prakasam,0.0
-IND,2,,,Srikakulam,0.0
-IND,2,,,Visakhapatnam,0.0
-IND,2,,,Vizianagaram,0.0
-IND,2,,,West Godavari,0.0
-IND,2,,,Y.S.R.,0.0
-IND,2,,,Anjaw,0.0
-IND,2,,,Anjaw,0.0
-IND,2,,,Changlang,0.0
-IND,2,,,Dibang Valley,0.0
-IND,2,,,East Kameng,0.0
-IND,2,,,East Siang,0.0
-IND,2,,,East Siang,0.0
-IND,2,,,Kurung Kumey,0.0
-IND,2,,,Lohit,0.0
-IND,2,,,Lohit,0.0
-IND,2,,,Longding,0.0
-IND,2,,,Lower Dibang Valley,0.0
-IND,2,,,Lower Dibang Valley,0.0
-IND,2,,,Lower Subansiri,0.0
-IND,2,,,Namsai,0.0
-IND,2,,,Papum Pare,0.0
-IND,2,,,Tawang,0.0
-IND,2,,,Tirap,0.0
-IND,2,,,Upper Siang,0.0
-IND,2,,,Upper Subansiri,0.0
-IND,2,,,West Kameng,0.0
-IND,2,,,West Siang,0.0
-IND,2,,,Baksa,13.42
-IND,2,,,Barpeta,0.0
-IND,2,,,Bongaigaon,0.0
-IND,2,,,Cachar,0.0
-IND,2,,,Chirang,10.46
-IND,2,,,Darrang,0.0
-IND,2,,,Dhemaji,0.0
-IND,2,,,Dhubri,0.0
-IND,2,,,Dibrugarh,0.0
-IND,2,,,Dima Hasao,0.0
-IND,2,,,Goalpara,0.0
-IND,2,,,Golaghat,9.04
-IND,2,,,Hailakandi,0.0
-IND,2,,,Jorhat,0.0
-IND,2,,,Kamrup,0.0
-IND,2,,,Kamrup Metropolitan,0.0
-IND,2,,,Karbi Anglong,0.0
-IND,2,,,Karimganj,0.0
-IND,2,,,Kokrajhar,0.0
-IND,2,,,Lakhimpur,0.0
-IND,2,,,Morigaon,0.0
-IND,2,,,Nagaon,2.69
-IND,2,,,Nalbari,0.0
-IND,2,,,Sivasagar,0.0
-IND,2,,,Sonitpur,0.06
-IND,2,,,Tinsukia,0.0
-IND,2,,,Udalguri,0.0
-IND,2,,,Araria,0.0
-IND,2,,,Arwal,0.0
-IND,2,,,Aurangabad,0.0
-IND,2,,,Banka,0.0
-IND,2,,,Begusarai,0.0
-IND,2,,,Bhagalpur,0.0
-IND,2,,,Bhojpur,0.0
-IND,2,,,Buxar,0.0
-IND,2,,,Darbhanga,0.0
-IND,2,,,Gaya,0.0
-IND,2,,,Gopalganj,0.0
-IND,2,,,Jamui,0.0
-IND,2,,,Jehanabad,0.0
-IND,2,,,Kaimur,0.0
-IND,2,,,Katihar,0.0
-IND,2,,,Khagaria,0.0
-IND,2,,,Kishanganj,0.0
-IND,2,,,Lakhisarai,0.0
-IND,2,,,Madhepura,0.0
-IND,2,,,Madhubani,0.0
-IND,2,,,Munger,0.0
-IND,2,,,Muzaffarpur,0.0
-IND,2,,,Nalanda,0.0
-IND,2,,,Nawada,0.0
-IND,2,,,Pashchim Champaran,0.0
-IND,2,,,Patna,0.0
-IND,2,,,Purba Champaran,0.0
-IND,2,,,Purnia,0.0
-IND,2,,,Rohtas,0.0
-IND,2,,,Saharsa,0.0
-IND,2,,,Samastipur,0.0
-IND,2,,,Saran,0.0
-IND,2,,,Sheikhpura,0.0
-IND,2,,,Sheohar,0.0
-IND,2,,,Sitamarhi,0.0
-IND,2,,,Siwan,0.0
-IND,2,,,Supaul,0.0
-IND,2,,,Vaishali,0.0
-IND,2,,,Chandigarh,0.0
-IND,2,,,Balod,0.0
-IND,2,,,Baloda Bazar,0.0
-IND,2,,,Balrampur,0.0
-IND,2,,,Bastar,0.0
-IND,2,,,Bemetara,0.0
-IND,2,,,Bijapur,0.0
-IND,2,,,Bilaspur,0.0
-IND,2,,,Dantewada,0.0
-IND,2,,,Dhamtari,0.0
-IND,2,,,Durg,0.0
-IND,2,,,Gariaband,0.0
-IND,2,,,Janjgir-Champa,0.0
-IND,2,,,Jashpur,0.0
-IND,2,,,Kabeerdham,0.0
-IND,2,,,Kondagaon,0.0
-IND,2,,,Korba,0.0
-IND,2,,,Koriya,0.0
-IND,2,,,Mahasamund,0.0
-IND,2,,,Mungeli,0.0
-IND,2,,,Narayanpur,0.0
-IND,2,,,Raigarh,0.0
-IND,2,,,Raipur,0.0
-IND,2,,,Rajnandgaon,0.0
-IND,2,,,Sukma,0.0
-IND,2,,,Surajpur,0.0
-IND,2,,,Surguja,0.0
-IND,2,,,Uttar Bastar Kanker,0.0
-IND,2,,,Dadra and Nagar Haveli,0.0
-IND,2,,,Daman,0.0
-IND,2,,,Diu,0.0
-IND,2,,,North Goa,0.0
-IND,2,,,South Goa,0.0
-IND,2,,,Ahmadabad,0.0
-IND,2,,,Amreli,0.0
-IND,2,,,Anand,0.0
-IND,2,,,Aravalli,0.0
-IND,2,,,Banas Kantha,0.0
-IND,2,,,Bharuch,0.0
-IND,2,,,Bhavnagar,0.0
-IND,2,,,Botad,0.0
-IND,2,,,Chhota Udaipur,0.0
-IND,2,,,Dahod,0.0
-IND,2,,,Devbhumi Dwarka,0.0
-IND,2,,,Gandhinagar,0.0
-IND,2,,,Gir Somnath,0.0
-IND,2,,,Jamnagar,0.0
-IND,2,,,Junagadh,0.0
-IND,2,,,Kachchh,0.0
-IND,2,,,Kheda,0.0
-IND,2,,,Mahesana,0.0
-IND,2,,,Mahisagar,0.0
-IND,2,,,Morbi,0.0
-IND,2,,,Narmada,0.0
-IND,2,,,Navsari,0.0
-IND,2,,,Panch Mahals,0.0
-IND,2,,,Patan,0.0
-IND,2,,,Porbandar,0.0
-IND,2,,,Rajkot,0.0
-IND,2,,,Sabar Kantha,0.0
-IND,2,,,Surat,0.0
-IND,2,,,Surendranagar,0.0
-IND,2,,,Tapi,0.0
-IND,2,,,The Dangs,0.0
-IND,2,,,Vadodara,0.0
-IND,2,,,Valsad,0.0
-IND,2,,,Ambala,0.0
-IND,2,,,Bhiwani,0.0
-IND,2,,,Faridabad,0.0
-IND,2,,,Fatehabad,0.0
-IND,2,,,Gurgaon,0.0
-IND,2,,,Hisar,0.0
-IND,2,,,Jhajjar,0.0
-IND,2,,,Jind,0.0
-IND,2,,,Kaithal,0.0
-IND,2,,,Karnal,0.0
-IND,2,,,Kurukshetra,0.0
-IND,2,,,Mahendragarh,0.0
-IND,2,,,Mewat,0.0
-IND,2,,,Palwal,0.0
-IND,2,,,Panchkula,0.0
-IND,2,,,Panipat,0.0
-IND,2,,,Rewari,0.0
-IND,2,,,Rohtak,0.0
-IND,2,,,Sirsa,0.0
-IND,2,,,Sonipat,0.0
-IND,2,,,Yamunanagar,0.0
-IND,2,,,Bilaspur,0.0
-IND,2,,,Chamba,0.0
-IND,2,,,Hamirpur,0.0
-IND,2,,,Kangra,0.0
-IND,2,,,Kinnaur,0.33
-IND,2,,,Kinnaur,0.0
-IND,2,,,Kinnaur,0.0
-IND,2,,,Kullu,13.91
-IND,2,,,Lahul & Spiti,0.06
-IND,2,,,Lahul & Spiti,0.0
-IND,2,,,Mandi,0.0
-IND,2,,,Shimla,0.57
-IND,2,,,Sirmaur,0.0
-IND,2,,,Solan,0.0
-IND,2,,,Una,0.0
-IND,2,,,Anantnag,0.0
-IND,2,,,Badgam,0.0
-IND,2,,,Bandipore,0.6
-IND,2,,,Baramulla,1.35
-IND,2,,,Doda,0.0
-IND,2,,,Ganderbal,0.0
-IND,2,,,Jammu,0.0
-IND,2,,,Kargil,0.0
-IND,2,,,Kathua,0.0
-IND,2,,,Kishtwar,0.0
-IND,2,,,Kulgam,0.0
-IND,2,,,Kupwara,0.0
-IND,2,,,Leh (Ladakh),0.0
-IND,2,,,Poonch,0.0
-IND,2,,,Pulwama,0.0
-IND,2,,,Rajouri,0.0
-IND,2,,,Ramban,0.0
-IND,2,,,Reasi,0.0
-IND,2,,,Samba,0.0
-IND,2,,,Shupiyan,0.0
-IND,2,,,Srinagar,0.0
-IND,2,,,Udhampur,0.0
-IND,2,,,Bokaro,0.0
-IND,2,,,Chatra,0.0
-IND,2,,,Deoghar,0.0
-IND,2,,,Dhanbad,0.0
-IND,2,,,Dumka,0.0
-IND,2,,,Garhwa,0.0
-IND,2,,,Giridih,0.0
-IND,2,,,Godda,0.0
-IND,2,,,Gumla,0.0
-IND,2,,,Hazaribagh,0.0
-IND,2,,,Jamtara,0.0
-IND,2,,,Khunti,0.0
-IND,2,,,Kodarma,0.0
-IND,2,,,Latehar,0.0
-IND,2,,,Lohardaga,0.0
-IND,2,,,Pakur,0.0
-IND,2,,,Palamu,0.0
-IND,2,,,Pashchimi Singhbhum,0.0
-IND,2,,,Purbi Singhbhum,0.0
-IND,2,,,Ramgarh,0.0
-IND,2,,,Ranchi,0.0
-IND,2,,,Sahibganj,0.0
-IND,2,,,Saraikela-kharsawan,0.0
-IND,2,,,Simdega,0.0
-IND,2,,,Bagalkot,0.0
-IND,2,,,Bangalore,0.0
-IND,2,,,Bangalore Rural,0.0
-IND,2,,,Belgaum,0.0
-IND,2,,,Bellary,0.0
-IND,2,,,Bidar,0.0
-IND,2,,,Bijapur,0.0
-IND,2,,,Chamrajnagar,0.0
-IND,2,,,Chikballapura,0.0
-IND,2,,,Chikmagalur,5.79
-IND,2,,,Chitradurga,0.0
-IND,2,,,Dakshina Kannada,4.09
-IND,2,,,Davanagere,0.0
-IND,2,,,Dharwad,0.0
-IND,2,,,Gadag,0.0
-IND,2,,,Gulbarga,0.0
-IND,2,,,Hassan,0.0
-IND,2,,,Haveri,0.0
-IND,2,,,Kodagu,16.86
-IND,2,,,Kolar,0.0
-IND,2,,,Koppal,0.0
-IND,2,,,Mandya,0.0
-IND,2,,,Mysore,0.0
-IND,2,,,Raichur,0.0
-IND,2,,,Ramanagara,0.0
-IND,2,,,Shimoga,1.0
-IND,2,,,Tumkur,0.0
-IND,2,,,Udupi,8.79
-IND,2,,,Uttara Kannada,0.0
-IND,2,,,Yadgir,0.0
-IND,2,,,Alappuzha,0.0
-IND,2,,,Ernakulam,0.0
-IND,2,,,Idukki,18.52
-IND,2,,,Kannur,1.88
-IND,2,,,Kasaragod,0.03
-IND,2,,,Kollam,15.5
-IND,2,,,Kottayam,0.06
-IND,2,,,Kozhikode,0.0
-IND,2,,,Malappuram,9.91
-IND,2,,,Palakkad,3.46
-IND,2,,,Pathanamthitta,43.56
-IND,2,,,Thiruvananthapuram,15.23
-IND,2,,,Thrissur,0.0
-IND,2,,,Wayanad,0.03
-IND,2,,,Lakshadweep,0.0
-IND,2,,,Agar Malwa,0.0
-IND,2,,,Alirajpur,0.0
-IND,2,,,Anuppur,0.0
-IND,2,,,Ashoknagar,0.0
-IND,2,,,Balaghat,0.0
-IND,2,,,Barwani,0.0
-IND,2,,,Betul,0.0
-IND,2,,,Bhind,0.0
-IND,2,,,Bhopal,0.0
-IND,2,,,Burhanpur,0.0
-IND,2,,,Chhatarpur,0.0
-IND,2,,,Chhindwara,0.0
-IND,2,,,Damoh,0.0
-IND,2,,,Datia,0.0
-IND,2,,,Dewas,0.0
-IND,2,,,Dhar,0.0
-IND,2,,,Dindori,0.0
-IND,2,,,East Nimar,0.0
-IND,2,,,Guna,0.0
-IND,2,,,Gwalior,0.0
-IND,2,,,Harda,0.0
-IND,2,,,Hoshangabad,0.0
-IND,2,,,Indore,0.0
-IND,2,,,Jabalpur,0.0
-IND,2,,,Jhabua,0.0
-IND,2,,,Katni,0.0
-IND,2,,,Mandla,0.0
-IND,2,,,Mandsaur,0.0
-IND,2,,,Morena,0.0
-IND,2,,,Narsimhapur,0.0
-IND,2,,,Neemuch,0.0
-IND,2,,,Panna,0.0
-IND,2,,,Raisen,0.0
-IND,2,,,Rajgarh,0.0
-IND,2,,,Ratlam,0.0
-IND,2,,,Rewa,0.0
-IND,2,,,Sagar,0.0
-IND,2,,,Satna,0.0
-IND,2,,,Sehore,0.0
-IND,2,,,Seoni,0.0
-IND,2,,,Shahdol,0.0
-IND,2,,,Shajapur,0.0
-IND,2,,,Sheopur,0.0
-IND,2,,,Shivpuri,0.0
-IND,2,,,Sidhi,0.0
-IND,2,,,Singrauli,0.0
-IND,2,,,Tikamgarh,0.0
-IND,2,,,Ujjain,0.0
-IND,2,,,Umaria,0.0
-IND,2,,,Vidisha,0.0
-IND,2,,,West Nimar,0.0
-IND,2,,,Ahmadnagar,0.0
-IND,2,,,Akola,0.0
-IND,2,,,Amravati,0.0
-IND,2,,,Aurangabad,0.0
-IND,2,,,Bhandara,0.0
-IND,2,,,Bid,0.0
-IND,2,,,Buldana,0.0
-IND,2,,,Chandrapur,0.0
-IND,2,,,Dhule,0.0
-IND,2,,,Garhchiroli,0.0
-IND,2,,,Gondiya,0.0
-IND,2,,,Hingoli,0.0
-IND,2,,,Jalgaon,0.0
-IND,2,,,Jalna,0.0
-IND,2,,,Kolhapur,6.37
-IND,2,,,Latur,0.0
-IND,2,,,Mumbai City,0.0
-IND,2,,,Mumbai Suburban,0.0
-IND,2,,,Nagpur,0.0
-IND,2,,,Nanded,0.0
-IND,2,,,Nandurbar,0.0
-IND,2,,,Nashik,0.0
-IND,2,,,Osmanabad,0.0
-IND,2,,,Palghar,0.0
-IND,2,,,Parbhani,0.0
-IND,2,,,Pune,0.0
-IND,2,,,Raigarh,0.0
-IND,2,,,Ratnagiri,1.08
-IND,2,,,Sangli,1.68
-IND,2,,,Satara,4.08
-IND,2,,,Sindhudurg,0.78
-IND,2,,,Solapur,0.0
-IND,2,,,Thane,0.0
-IND,2,,,Wardha,0.0
-IND,2,,,Washim,0.0
-IND,2,,,Yavatmal,0.0
-IND,2,,,Bishnupur,37.87
-IND,2,,,Chandel,0.0
-IND,2,,,Churachandpur,0.0
-IND,2,,,Imphal East,0.0
-IND,2,,,Imphal West,10.01
-IND,2,,,Senapati,0.0
-IND,2,,,Tamenglong,0.0
-IND,2,,,Thoubal,5.69
-IND,2,,,Ukhrul,0.0
-IND,2,,,East Garo Hills,0.0
-IND,2,,,East Khasi Hills,0.0
-IND,2,,,Jaintia Hills,0.0
-IND,2,,,North Garo Hills,0.0
-IND,2,,,Ri Bhoi,0.0
-IND,2,,,South Garo Hills,0.0
-IND,2,,,South West Garo Hills,0.0
-IND,2,,,South West Khasi Hills,0.0
-IND,2,,,West Garo Hills,0.0
-IND,2,,,West Khasi Hills,0.0
-IND,2,,,Aizawl,0.0
-IND,2,,,Champhai,0.0
-IND,2,,,Kolasib,0.0
-IND,2,,,Lawangtlai,0.0
-IND,2,,,Lunglei,0.0
-IND,2,,,Mamit,0.0
-IND,2,,,Saiha,0.0
-IND,2,,,Serchhip,0.0
-IND,2,,,Dimapur,0.0
-IND,2,,,Kiphire,0.0
-IND,2,,,Kohima,0.0
-IND,2,,,Longleng,0.0
-IND,2,,,Mokokchung,0.0
-IND,2,,,Mon,0.0
-IND,2,,,Peren,0.0
-IND,2,,,Phek,0.0
-IND,2,,,Tuensang,0.0
-IND,2,,,Wokha,0.0
-IND,2,,,Zunheboto,0.0
-IND,2,,,West,0.0
-IND,2,,,Anugul,0.0
-IND,2,,,Balangir,0.0
-IND,2,,,Baleshwar,0.0
-IND,2,,,Bargarh,0.0
-IND,2,,,Bauda,0.0
-IND,2,,,Bhadrak,0.0
-IND,2,,,Cuttack,0.0
-IND,2,,,Debagarh,0.0
-IND,2,,,Dhenkanal,0.0
-IND,2,,,Gajapati,0.0
-IND,2,,,Ganjam,0.11
-IND,2,,,Jagatsinghapur,0.0
-IND,2,,,Jajapur,0.0
-IND,2,,,Jharsuguda,0.0
-IND,2,,,Kalahandi,0.0
-IND,2,,,Kandhamal,0.0
-IND,2,,,Kendrapara,0.0
-IND,2,,,Kendujhar,0.0
-IND,2,,,Khordha,2.47
-IND,2,,,Koraput,0.0
-IND,2,,,Malkangiri,0.0
-IND,2,,,Mayurbhanj,0.0
-IND,2,,,Nabarangapur,0.0
-IND,2,,,Nayagarh,0.0
-IND,2,,,Nuapada,0.0
-IND,2,,,Puri,33.45
-IND,2,,,Rayagada,0.0
-IND,2,,,Sambalpur,0.0
-IND,2,,,Subarnapur,0.0
-IND,2,,,Sundargarh,0.0
-IND,2,,,Karaikal,0.0
-IND,2,,,Mahe,0.0
-IND,2,,,Puducherry,0.0
-IND,2,,,Yanam,0.0
-IND,2,,,Amritsar,0.0
-IND,2,,,Barnala,0.0
-IND,2,,,Bathinda,0.0
-IND,2,,,Faridkot,0.0
-IND,2,,,Fatehgarh Sahib,0.0
-IND,2,,,Fazilka,0.0
-IND,2,,,Firozpur,0.0
-IND,2,,,Gurdaspur,0.0
-IND,2,,,Hoshiarpur,0.0
-IND,2,,,Jalandhar,0.0
-IND,2,,,Kapurthala,0.0
-IND,2,,,Ludhiana,0.0
-IND,2,,,Mansa,0.0
-IND,2,,,Moga,0.0
-IND,2,,,Muktsar,0.0
-IND,2,,,Pathankot,0.0
-IND,2,,,Patiala,0.0
-IND,2,,,Rupnagar,0.0
-IND,2,,,Sahibzada Ajit Singh Nagar,0.0
-IND,2,,,Sangrur,0.0
-IND,2,,,Shahid Bhagat Singh Nagar,0.0
-IND,2,,,Tarn Taran,0.0
-IND,2,,,Ajmer,0.01
-IND,2,,,Alwar,0.0
-IND,2,,,Banswara,0.0
-IND,2,,,Baran,0.0
-IND,2,,,Barmer,0.0
-IND,2,,,Bharatpur,0.74
-IND,2,,,Bhilwara,0.0
-IND,2,,,Bikaner,0.0
-IND,2,,,Bundi,0.0
-IND,2,,,Chittaurgarh,0.0
-IND,2,,,Churu,0.0
-IND,2,,,Dausa,0.0
-IND,2,,,Dhaulpur,0.0
-IND,2,,,Dungarpur,0.0
-IND,2,,,Ganganagar,0.0
-IND,2,,,Hanumangarh,0.0
-IND,2,,,Jaipur,0.67
-IND,2,,,Jaisalmer,0.0
-IND,2,,,Jalor,0.0
-IND,2,,,Jhalawar,0.0
-IND,2,,,Jhunjhunun,0.0
-IND,2,,,Jodhpur,0.0
-IND,2,,,Karauli,0.0
-IND,2,,,Kota,0.0
-IND,2,,,Nagaur,0.69
-IND,2,,,Pali,0.0
-IND,2,,,Pratapgarh,0.0
-IND,2,,,Rajsamand,0.0
-IND,2,,,Sawai Madhopur,0.0
-IND,2,,,Sikar,0.0
-IND,2,,,Sirohi,0.0
-IND,2,,,Tonk,0.0
-IND,2,,,Udaipur,0.0
-IND,2,,,East Sikkim,0.0
-IND,2,,,North Sikkim,31.98
-IND,2,,,South Sikkim,8.26
-IND,2,,,West Sikkim,27.34
-IND,2,,,Ariyalur,0.0
-IND,2,,,Chennai,0.0
-IND,2,,,Coimbatore,0.86
-IND,2,,,Cuddalore,0.0
-IND,2,,,Dharmapuri,0.0
-IND,2,,,Dindigul,0.0
-IND,2,,,Erode,0.0
-IND,2,,,Kancheepuram,0.0
-IND,2,,,Kanniyakumari,0.77
-IND,2,,,Karur,0.0
-IND,2,,,Krishnagiri,0.0
-IND,2,,,Madurai,5.17
-IND,2,,,Nagappattinam,0.0
-IND,2,,,Namakkal,0.0
-IND,2,,,Perambalur,0.0
-IND,2,,,Pudukkottai,0.0
-IND,2,,,Ramanathapuram,0.0
-IND,2,,,Salem,0.0
-IND,2,,,Sivaganga,0.0
-IND,2,,,Thanjavur,0.0
-IND,2,,,The Nilgiris,4.15
-IND,2,,,Theni,1.66
-IND,2,,,Thiruvallur,0.0
-IND,2,,,Thiruvarur,0.0
-IND,2,,,Thoothukkudi,0.0
-IND,2,,,Tiruchirappalli,0.0
-IND,2,,,Tirunelveli,17.49
-IND,2,,,Tiruppur,0.71
-IND,2,,,Tiruvannamalai,0.0
-IND,2,,,Vellore,0.0
-IND,2,,,Viluppuram,0.0
-IND,2,,,Virudunagar,6.76
-IND,2,,,Adilabad,0.0
-IND,2,,,Hyderabad,0.0
-IND,2,,,Karimnagar,0.0
-IND,2,,,Khammam,0.0
-IND,2,,,Mahbubnagar,0.0
-IND,2,,,Medak,0.0
-IND,2,,,Nalgonda,0.0
-IND,2,,,Nizamabad,0.0
-IND,2,,,Ranga Reddy,0.0
-IND,2,,,Warangal,0.0
-IND,2,,,Dhalai,0.0
-IND,2,,,Gomati,0.0
-IND,2,,,Khowai,0.0
-IND,2,,,North Tripura,0.0
-IND,2,,,Sipahijala,0.0
-IND,2,,,South Tripura,0.0
-IND,2,,,Unokoti,0.0
-IND,2,,,West Tripura,0.0
-IND,2,,,Agra,0.0
-IND,2,,,Aligarh,0.0
-IND,2,,,Allahabad,0.0
-IND,2,,,Ambedkar Nagar,0.0
-IND,2,,,Amethi,0.0
-IND,2,,,Amroha,0.0
-IND,2,,,Auraiya,0.0
-IND,2,,,Azamgarh,0.0
-IND,2,,,Baghpat,0.0
-IND,2,,,Bahraich,0.0
-IND,2,,,Ballia,0.0
-IND,2,,,Balrampur,0.0
-IND,2,,,Banda,0.0
-IND,2,,,Barabanki,0.0
-IND,2,,,Bareilly,0.0
-IND,2,,,Basti,0.0
-IND,2,,,Bijnor,0.0
-IND,2,,,Budaun,0.0
-IND,2,,,Bulandshahr,0.0
-IND,2,,,Chandauli,0.0
-IND,2,,,Chitrakoot,0.0
-IND,2,,,Deoria,0.0
-IND,2,,,Etah,0.0
-IND,2,,,Etawah,0.0
-IND,2,,,Faizabad,0.0
-IND,2,,,Farrukhabad,0.0
-IND,2,,,Fatehpur,0.0
-IND,2,,,Firozabad,0.0
-IND,2,,,Gautam Buddha Nagar,0.0
-IND,2,,,Ghaziabad,0.0
-IND,2,,,Ghazipur,0.0
-IND,2,,,Gonda,0.0
-IND,2,,,Gorakhpur,0.0
-IND,2,,,Hamirpur,0.0
-IND,2,,,Hapur,0.0
-IND,2,,,Hardoi,0.0
-IND,2,,,Hathras,0.0
-IND,2,,,Jalaun,0.0
-IND,2,,,Jaunpur,0.0
-IND,2,,,Jhansi,0.0
-IND,2,,,Kannauj,0.0
-IND,2,,,Kanpur Dehat,0.0
-IND,2,,,Kanpur Nagar,0.0
-IND,2,,,Kasganj,0.0
-IND,2,,,Kaushambi,0.0
-IND,2,,,Kushinagar,0.0
-IND,2,,,Lakhimpur Kheri,0.0
-IND,2,,,Lalitpur,0.0
-IND,2,,,Lucknow,0.0
-IND,2,,,Maharajganj,0.0
-IND,2,,,Mahoba,0.0
-IND,2,,,Mainpuri,0.0
-IND,2,,,Mathura,0.0
-IND,2,,,Mau,0.0
-IND,2,,,Meerut,0.0
-IND,2,,,Mirzapur,0.0
-IND,2,,,Moradabad,0.0
-IND,2,,,Muzaffarnagar,0.0
-IND,2,,,Pilibhit,0.0
-IND,2,,,Pratapgarh,0.0
-IND,2,,,Rae Bareli,0.0
-IND,2,,,Rampur,0.0
-IND,2,,,Saharanpur,0.0
-IND,2,,,Sambhal,0.0
-IND,2,,,Sant Kabir Nagar,0.0
-IND,2,,,Sant Ravi Das Nagar,0.0
-IND,2,,,Shahjahanpur,0.0
-IND,2,,,Shamli,0.0
-IND,2,,,Shravasti,0.0
-IND,2,,,Siddharth Nagar,0.0
-IND,2,,,Sitapur,0.0
-IND,2,,,Sonbhadra,0.0
-IND,2,,,Sultanpur,0.0
-IND,2,,,Unnao,0.0
-IND,2,,,Varanasi,0.0
-IND,2,,,Almora,0.0
-IND,2,,,Bageshwar,20.2
-IND,2,,,Chamoli,48.15
-IND,2,,,Chamoli,98.9
-IND,2,,,Champawat,0.0
-IND,2,,,Dehradun,0.0
-IND,2,,,Garhwal,0.0
-IND,2,,,Hardwar,0.0
-IND,2,,,Nainital,0.0
-IND,2,,,Pithoragarh,15.02
-IND,2,,,Pithoragarh,96.58
-IND,2,,,Rudraprayag,0.24
-IND,2,,,Tehri Garhwal,0.0
-IND,2,,,Udham Singh Nagar,0.0
-IND,2,,,Uttarkashi,0.08
-IND,2,,,Uttarkashi,0.0
-IND,2,,,Alipurduar,0.0
-IND,2,,,Bankura,0.0
-IND,2,,,Barddhaman,0.0
-IND,2,,,Birbhum,0.0
-IND,2,,,Dakshin Dinajpur,0.0
-IND,2,,,Darjiling,0.0
-IND,2,,,Haora,0.0
-IND,2,,,Hugli,0.0
-IND,2,,,Jalpaiguri,0.0
-IND,2,,,Koch Bihar,0.0
-IND,2,,,Kolkata,0.0
-IND,2,,,Maldah,0.0
-IND,2,,,Murshidabad,0.0
-IND,2,,,Nadia,0.0
-IND,2,,,North 24 Parganas,14.35
-IND,2,,,Pashchim Medinipur,0.0
-IND,2,,,Purba Medinipur,0.0
-IND,2,,,Puruliya,0.0
-IND,2,,,South 24 Parganas,0.0
-IND,2,,,Uttar Dinajpur,0.0
-LKA,2,,,Addalachchenai,0.0
-LKA,2,,,Akkaraipattu,0.0
-LKA,2,,,Alayadiwembu,0.0
-LKA,2,,,Ampara,26.32
-LKA,2,,,Damana,44.34
-LKA,2,,,Dehiattakandiya,40.5
-LKA,2,,,Eragama,0.0
-LKA,2,,,Kalmunai,0.0
-LKA,2,,,Karativu,0.0
-LKA,2,,,Lahugala,83.75
-LKA,2,,,Mahaoya,62.04
-LKA,2,,,Navithanveli,0.0
-LKA,2,,,Ninthavur,0.0
-LKA,2,,,Padiyathalawa,40.3
-LKA,2,,,Pothuvil,33.63
-LKA,2,,,Sainthamarathu,0.0
-LKA,2,,,Samanthurai,0.0
-LKA,2,,,Thirukkovil,41.91
-LKA,2,,,Uhana,43.73
-LKA,2,,,Galenbindunuwewa,1.42
-LKA,2,,,Galnewa,17.09
-LKA,2,,,Horowpothana,17.18
-LKA,2,,,Ipalogama,1.47
-LKA,2,,,Kahatagasdigiliya,5.64
-LKA,2,,,Kebithigollewa,42.63
-LKA,2,,,Kekirawa,15.05
-LKA,2,,,Maha Vilachchiya,55.92
-LKA,2,,,Medawachchiya,14.24
-LKA,2,,,Mihinthale,21.48
-LKA,2,,,N. Palatha Central,9.11
-LKA,2,,,N. Palatha East,0.0
-LKA,2,,,Nachchadoowa,0.78
-LKA,2,,,Nochchiyagama,54.96
-LKA,2,,,Padaviya,18.75
-LKA,2,,,Palagala,44.18
-LKA,2,,,Palugaswewa,17.81
-LKA,2,,,Rajanganaya,0.0
-LKA,2,,,Rambewa,4.61
-LKA,2,,,Thalawa,9.06
-LKA,2,,,Thambuttegama,0.0
-LKA,2,,,Thirappane,7.69
-LKA,2,,,Badulla,0.2
-LKA,2,,,Bandarawela,1.44
-LKA,2,,,Ella,1.85
-LKA,2,,,Hali-Ela,0.91
-LKA,2,,,Haputale,2.66
-LKA,2,,,Hildummulla,55.64
-LKA,2,,,Kandaketiya,25.97
-LKA,2,,,Lunugala,4.27
-LKA,2,,,Mahiyanganaya,38.1
-LKA,2,,,Meegahakivula,8.66
-LKA,2,,,Passara,2.66
-LKA,2,,,Rideemaliyadda,5.96
-LKA,2,,,Soranathota,1.16
-LKA,2,,,Uva Paranagama,0.72
-LKA,2,,,Welimada,15.88
-LKA,2,,,Eravur Pattu,42.98
-LKA,2,,,Eravur Town,0.0
-LKA,2,,,Kattankudy,0.0
-LKA,2,,,Koralai Pattu (Valachchenai),49.73
-LKA,2,,,Koralai Pattu North,59.55
-LKA,2,,,Koralai Pattu West (Oddamavadi),33.66
-LKA,2,,,Manmunai North,0.0
-LKA,2,,,Manmunai Pattu (Araipattai),0.0
-LKA,2,,,Manmunai South-West,16.78
-LKA,2,,,Manmunai South and Eruvilpattu,0.0
-LKA,2,,,Manmunai West,27.16
-LKA,2,,,Porativu Pattu,0.0
-LKA,2,,,Colombo,0.0
-LKA,2,,,Dehiwala-Mount Lavinia,11.63
-LKA,2,,,Hanwella,2.01
-LKA,2,,,Homagama,0.0
-LKA,2,,,Kaduwela,2.3
-LKA,2,,,Kesbewa,1.48
-LKA,2,,,Kolonnawa,0.0
-LKA,2,,,Maharagama,2.06
-LKA,2,,,Moratuwa,0.02
-LKA,2,,,Padukka,13.21
-LKA,2,,,Sri Jayawardanapura Kotte,25.81
-LKA,2,,,Thimbirigasyaya,0.0
-LKA,2,,,Akmeemana,1.68
-LKA,2,,,Ambalangoda,7.99
-LKA,2,,,Baddegama,0.0
-LKA,2,,,Balapitiya,0.0
-LKA,2,,,Bentota,0.0
-LKA,2,,,Bope-Poddala,0.0
-LKA,2,,,Elpitiya,0.42
-LKA,2,,,Galle Four Gravets,0.0
-LKA,2,,,Habaraduwa,1.13
-LKA,2,,,Hikkaduwa,18.74
-LKA,2,,,Imaduwa,5.03
-LKA,2,,,Karandeniya,0.0
-LKA,2,,,Nagoda,17.0
-LKA,2,,,Neluwa,23.99
-LKA,2,,,Niyagama,10.63
-LKA,2,,,Thawalama,37.34
-LKA,2,,,Welivitiya-Divithura,0.0
-LKA,2,,,Yakkalamulla,4.35
-LKA,2,,,Attanagalla,2.34
-LKA,2,,,Biyagama,0.0
-LKA,2,,,Divulapitiya,0.06
-LKA,2,,,Dompe,2.41
-LKA,2,,,Gampaha,0.0
-LKA,2,,,Ja-Ela,2.33
-LKA,2,,,Katana,0.63
-LKA,2,,,Kelaniya,0.0
-LKA,2,,,Mahara,0.0
-LKA,2,,,Minuwangoda,0.0
-LKA,2,,,Mirigama,1.85
-LKA,2,,,Negombo,0.0
-LKA,2,,,Wattala,7.29
-LKA,2,,,Ambalanthota,4.29
-LKA,2,,,Angunakolapelessa,3.88
-LKA,2,,,Beliatta,0.0
-LKA,2,,,Hambantota,13.09
-LKA,2,,,Katuwana,10.26
-LKA,2,,,Lunugamvehera,39.94
-LKA,2,,,Okewela,3.82
-LKA,2,,,Sooriyawewa,16.59
-LKA,2,,,Tangalle,0.01
-LKA,2,,,Thissamaharama,67.95
-LKA,2,,,Weeraketiya,1.64
-LKA,2,,,Delft,0.0
-LKA,2,,,Island South (Velanai),0.0
-LKA,2,,,Islands North (Kayts),0.56
-LKA,2,,,Jaffna,0.0
-LKA,2,,,Nallur,0.0
-LKA,2,,,Thenmaradchy (Chavakachcheri),0.0
-LKA,2,,,Vadamaradchi South-West,0.0
-LKA,2,,,Vadamaradchy East,5.55
-LKA,2,,,Vadamaradchy North,0.0
-LKA,2,,,Valikamam East,0.0
-LKA,2,,,Valikamam North,0.0
-LKA,2,,,Valikamam South,0.0
-LKA,2,,,Valikamam South-West,0.0
-LKA,2,,,Valikamam West,0.0
-LKA,2,,,Agalawatta,0.0
-LKA,2,,,Bandaragama,0.0
-LKA,2,,,Beruwala,0.0
-LKA,2,,,Bulathsinhala,1.52
-LKA,2,,,Dodangoda,0.0
-LKA,2,,,Horana,0.0
-LKA,2,,,Ingiriya,5.02
-LKA,2,,,Kalutara,0.0
-LKA,2,,,Madurawala,0.55
-LKA,2,,,Mathugama,0.19
-LKA,2,,,Millaniya,0.0
-LKA,2,,,Palindanuwara,0.17
-LKA,2,,,Panadura,0.0
-LKA,2,,,Walallawita,17.04
-LKA,2,,,Akurana,0.0
-LKA,2,,,Delthota,0.0
-LKA,2,,,Doluwa,0.08
-LKA,2,,,Ganga Ihala Korale,1.81
-LKA,2,,,Harispattuwa,0.14
-LKA,2,,,Hatharaliyadda,0.1
-LKA,2,,,K.F.G. & G. Korale,4.55
-LKA,2,,,Kundasale,10.82
-LKA,2,,,Medadumbara,43.26
-LKA,2,,,Minipe,50.92
-LKA,2,,,Panvila,39.19
-LKA,2,,,Pasbage Korale,4.4
-LKA,2,,,Pathadumbara,4.93
-LKA,2,,,Pathahewaheta,10.78
-LKA,2,,,Poojapitiya,0.0
-LKA,2,,,Thumpane,2.34
-LKA,2,,,Udadumbara,74.25
-LKA,2,,,Udapalatha,0.0
-LKA,2,,,Udunuwara,0.0
-LKA,2,,,Yatinuwara,0.16
-LKA,2,,,Aranayaka,1.89
-LKA,2,,,Bulathkohupitiya,0.39
-LKA,2,,,Dehiovita,2.05
-LKA,2,,,Deraniyagala,24.53
-LKA,2,,,Galigamuwa,0.46
-LKA,2,,,Kegalle,5.25
-LKA,2,,,Mawanella,0.54
-LKA,2,,,Rambukkana,4.25
-LKA,2,,,Ruwanwella,0.25
-LKA,2,,,Warakapola,1.14
-LKA,2,,,Yatiyanthota,1.23
-LKA,2,,,Kandawali,9.31
-LKA,2,,,Karachchi,75.36
-LKA,2,,,Pachchilaipalli,2.03
-LKA,2,,,Poonakary,48.95
-LKA,2,,,Alawwa,5.45
-LKA,2,,,Ambanpola,0.0
-LKA,2,,,Bamunakotuwa,2.16
-LKA,2,,,Bingiriya,0.34
-LKA,2,,,Ehetuwewa,10.85
-LKA,2,,,Galgamuwa,0.0
-LKA,2,,,Ganewatta,6.85
-LKA,2,,,Giribawa,2.35
-LKA,2,,,Ibbagamuwa,18.31
-LKA,2,,,Katupotha,2.04
-LKA,2,,,Kobeigane,16.31
-LKA,2,,,Kotavehera,0.0
-LKA,2,,,Kuliyapitiya East,1.26
-LKA,2,,,Kuliyapitiya West,1.53
-LKA,2,,,Kurunegala,3.77
-LKA,2,,,Mahawa,0.13
-LKA,2,,,Mallawapitiya,5.92
-LKA,2,,,Maspotha,11.61
-LKA,2,,,Mawathagama,0.8
-LKA,2,,,Narammala,0.21
-LKA,2,,,Nikaweratiya,0.38
-LKA,2,,,Panduwasnuwara,1.69
-LKA,2,,,Pannala,3.95
-LKA,2,,,Polgahawela,1.03
-LKA,2,,,Polpithigama,35.0
-LKA,2,,,Rasnayakapura,0.37
-LKA,2,,,Rideegama,4.19
-LKA,2,,,Udubaddawa,0.0
-LKA,2,,,Wariyapola,1.33
-LKA,2,,,Weerambugedara,0.93
-LKA,2,,,Madhu,75.83
-LKA,2,,,Mannar Town,0.0
-LKA,2,,,Manthai West,59.49
-LKA,2,,,Musali,70.46
-LKA,2,,,Nanaddan,15.44
-LKA,2,,,Ambanganga Korale,0.84
-LKA,2,,,Dambulla,47.5
-LKA,2,,,Galewela,5.6
-LKA,2,,,Laggala-Pallegama,42.11
-LKA,2,,,Matale,0.3
-LKA,2,,,Naula,22.05
-LKA,2,,,Pallepola,1.37
-LKA,2,,,Rattota,16.11
-LKA,2,,,Ukuwela,6.24
-LKA,2,,,Wilgamuwa,53.47
-LKA,2,,,Yatawatta,0.09
-LKA,2,,,Akuressa,31.78
-LKA,2,,,Athuraliya,12.99
-LKA,2,,,Devinuwara,10.19
-LKA,2,,,Dickwella,0.04
-LKA,2,,,Hakmana,4.51
-LKA,2,,,Kamburupitiya,9.5
-LKA,2,,,Kirinda-Puhulwella,15.05
-LKA,2,,,Kotapola,18.51
-LKA,2,,,Malimbada,1.89
-LKA,2,,,Matara Four Gravets,10.88
-LKA,2,,,Mulatiyana,21.11
-LKA,2,,,Pasgoda,16.47
-LKA,2,,,Pitabeddara,10.53
-LKA,2,,,Thihagoda,6.95
-LKA,2,,,Weligama,0.0
-LKA,2,,,Welipitiya,5.7
-LKA,2,,,Badalkumbura,0.03
-LKA,2,,,Bibile,28.02
-LKA,2,,,Buttala,48.49
-LKA,2,,,Katharagama,84.45
-LKA,2,,,Madulla,42.46
-LKA,2,,,Medagama,2.25
-LKA,2,,,Moneragala,7.83
-LKA,2,,,Sevanagala,0.91
-LKA,2,,,Siyambalanduwa,39.62
-LKA,2,,,Thanamalvila,52.52
-LKA,2,,,Wellawaya,26.42
-LKA,2,,,Manthai East,69.85
-LKA,2,,,Maritimepattu,45.26
-LKA,2,,,Oddusuddan,83.78
-LKA,2,,,Puthukudiyiruppu,43.25
-LKA,2,,,Thunukkai,46.18
-LKA,2,,,Ambagamuwa,12.28
-LKA,2,,,Hanguranketha,28.72
-LKA,2,,,Kothmale,9.3
-LKA,2,,,Nuwara Eliya,17.04
-LKA,2,,,Walapane,31.53
-LKA,2,,,Dimbulagala,11.48
-LKA,2,,,Elahera,50.48
-LKA,2,,,Hingurakgoda,76.25
-LKA,2,,,Lankapura,54.34
-LKA,2,,,Medirigiriya,47.55
-LKA,2,,,Thamankaduwa,61.62
-LKA,2,,,Welikanda,39.02
-LKA,2,,,Anamaduwa,3.05
-LKA,2,,,Arachchikattuwa PS,12.0
-LKA,2,,,Chilaw,0.14
-LKA,2,,,Dankotuwa,0.29
-LKA,2,,,Kalpitiya,0.0
-LKA,2,,,Karuwalagaswewa,48.19
-LKA,2,,,Madampe,4.35
-LKA,2,,,Mahakumbukkadawala,0.37
-LKA,2,,,Mahawewa,0.0
-LKA,2,,,Mundalama,0.0
-LKA,2,,,Nattandiya,0.0
-LKA,2,,,Nawagattegama,33.74
-LKA,2,,,Pallama,0.36
-LKA,2,,,Puttalam,12.3
-LKA,2,,,Vanathavilluwa,70.39
-LKA,2,,,Wennappuwa,0.0
-LKA,2,,,Ayagama,0.11
-LKA,2,,,Balangoda,19.38
-LKA,2,,,Eheliyagoda,6.88
-LKA,2,,,Elapatha,6.85
-LKA,2,,,Embilipitiya,7.73
-LKA,2,,,Godakawela,1.52
-LKA,2,,,Imbulpe,21.56
-LKA,2,,,Kahawatta,3.22
-LKA,2,,,Kalawana,23.7
-LKA,2,,,Kiriella,1.81
-LKA,2,,,Kolonna,0.66
-LKA,2,,,Kuruvita,1.31
-LKA,2,,,Nivithigala,1.3
-LKA,2,,,Opanayaka,0.0
-LKA,2,,,Pelmadulla,0.96
-LKA,2,,,Ratnapura,34.56
-LKA,2,,,Weligepola,30.5
-LKA,2,,,Gomarankadawala,53.4
-LKA,2,,,Kantalai,56.83
-LKA,2,,,Kinniya,24.62
-LKA,2,,,Kuchchaveli,31.72
-LKA,2,,,Morawewa,78.03
-LKA,2,,,Muttur,0.09
-LKA,2,,,Padavi Sri Pura,10.8
-LKA,2,,,Seruvila,77.39
-LKA,2,,,Thampalakamam,70.52
-LKA,2,,,Trincomalee Town and Gravets,26.44
-LKA,2,,,Verugal,30.3
-LKA,2,,,Vavuniya,24.52
-LKA,2,,,Vavuniya North,56.81
-LKA,2,,,Vavuniya South,50.16
-LKA,2,,,Vengalacheddiculam,12.32
-NPL,2,,,Bagmati,28.24
-NPL,2,,,Janakpur,18.31
-NPL,2,,,Narayani,30.14
-NPL,2,,,Koshi,18.49
-NPL,2,,,Mechi,24.87
-NPL,2,,,Sagarmatha,20.32
-NPL,2,,,Mahakali,37.03
-NPL,2,,,Seti,3.75
-NPL,2,,,Bheri,21.59
-NPL,2,,,Karnali,24.37
-NPL,2,,,Rapti,7.86
-NPL,2,,,Dhaualagiri,54.31
-NPL,2,,,Gandaki,46.12
-NPL,2,,,Lumbini,2.87
-PAK,2,,,Azad Kashmir,1.97
-PAK,2,,,Kalat,4.42
-PAK,2,,,Makran,4.15
-PAK,2,,,Nasirabad,0.0
-PAK,2,,,Quetta,1.49
-PAK,2,,,Sibi,2.53
-PAK,2,,,Zhob,0.12
-PAK,2,,,F.A.T.A.,2.69
-PAK,2,,,Northern Areas,9.2
-PAK,2,,,Islamabad,10.03
-PAK,2,,,Bannu,0.86
-PAK,2,,,Dera Ismail Khan,0.0
-PAK,2,,,F.A.T.A.,0.0
-PAK,2,,,Hazara,1.86
-PAK,2,,,Kohat,7.72
-PAK,2,,,Malakand,1.98
-PAK,2,,,Mardan,3.45
-PAK,2,,,Peshawar,0.16
-PAK,2,,,Bahawalpur,49.34
-PAK,2,,,Dera Ghazi Khan,12.81
-PAK,2,,,Faisalabad,0.05
-PAK,2,,,Gujranwala,0.63
-PAK,2,,,Lahore,0.0
-PAK,2,,,Multan,0.49
-PAK,2,,,Rawalpindi,3.42
-PAK,2,,,Sargodha,33.62
-PAK,2,,,Hyderabad,12.98
-PAK,2,,,Karachi,32.54
-PAK,2,,,Larkana,4.09
-PAK,2,,,Mirpur Khas,24.13
-PAK,2,,,Rann of Kutch,40.59
-PAK,2,,,Sukkur,26.65
+country_wb,geo_level,level0_code,level0_name,level1_code,level1_name,level2_code,level2_name,indicator,indicator_label,value,year
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.1_1,Baharak,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.2_1,Darwaz,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.3_1,Fayzabad,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.4_1,Ishkashim,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.5_1,Jurm,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.6_1,Khwahan,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.7_1,Kishim,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.8_1,Kuran Wa Munjan,,,47.01,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.9_1,Ragh,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.10_1,Shahri Buzurg,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.11_1,Shighnan,,,0.0,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.12_1,Wakhan,,,97.11,
+AFG,2,AFG,,AFG.1_1,Badakhshan,AFG.1.13_1,Zebak,,,0.16,
+AFG,2,AFG,,AFG.2_1,Badghis,AFG.2.1_1,Ab Kamari,,,0.0,
+AFG,2,AFG,,AFG.2_1,Badghis,AFG.2.2_1,Ghormach,,,0.0,
+AFG,2,AFG,,AFG.2_1,Badghis,AFG.2.3_1,Jawand,,,0.0,
+AFG,2,AFG,,AFG.2_1,Badghis,AFG.2.4_1,Muqur,,,0.0,
+AFG,2,AFG,,AFG.2_1,Badghis,AFG.2.5_1,Murghab,,,0.0,
+AFG,2,AFG,,AFG.2_1,Badghis,AFG.2.6_1,Qadis,,,0.0,
+AFG,2,AFG,,AFG.2_1,Badghis,AFG.2.7_1,Qala-I-Naw,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.1_1,Andarab,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.2_1,Baghlan City,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.3_1,Baghlani Jadid,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.4_1,Burka,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.5_1,Dahana-I-Ghori,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.6_1,Doshi,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.7_1,Kahmard,,,19.14,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.8_1,Khinjan,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.9_1,Khost Wa Firing,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.10_1,Nahrin,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.11_1,Puli Khumri,,,0.0,
+AFG,2,AFG,,AFG.3_1,Baghlan,AFG.3.12_1,Tala Wa Barfak,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.1_1,Balkh,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.2_1,Char Bolak,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.3_1,Charkint,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.4_1,Chimtal,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.5_1,Dawlat abad,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.6_1,Dihdadi,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.7_1,Kaldar,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.8_1,Khulm,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.9_1,Kishindih,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.10_1,Marmul,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.11_1,Mazar-i-Sharif,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.12_1,Nahri Shahi,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.13_1,Sholgara,,,0.0,
+AFG,2,AFG,,AFG.4_1,Balkh,AFG.4.14_1,Shortepa,,,0.0,
+AFG,2,AFG,,AFG.5_1,Bamyan,AFG.5.1_1,Bamyan City,,,16.51,
+AFG,2,AFG,,AFG.5_1,Bamyan,AFG.5.2_1,Panjab,,,0.35,
+AFG,2,AFG,,AFG.5_1,Bamyan,AFG.5.3_1,Shibar,,,4.32,
+AFG,2,AFG,,AFG.5_1,Bamyan,AFG.5.4_1,Waras,,,0.0,
+AFG,2,AFG,,AFG.5_1,Bamyan,AFG.5.5_1,Yakawlang,,,65.23,
+AFG,2,AFG,,AFG.6_1,Daykundi,AFG.6.1_1,Day Kundi,,,0.0,
+AFG,2,AFG,,AFG.6_1,Daykundi,AFG.6.2_1,Gizab,,,0.0,
+AFG,2,AFG,,AFG.6_1,Daykundi,AFG.6.3_1,Kijran,,,0.0,
+AFG,2,AFG,,AFG.6_1,Daykundi,AFG.6.4_1,Shahristan,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.1_1,Anar Dara,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.2_1,Bakwa,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.3_1,Bala Buluk,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.4_1,Farah City,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.5_1,Gulistan,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.6_1,Khaki Safed,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.7_1,Lash Wa Juwayn,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.8_1,Purchaman,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.9_1,Pusht Rod,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.10_1,Qala-I-Kah,,,0.0,
+AFG,2,AFG,,AFG.7_1,Farah,AFG.7.11_1,Shib Koh,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.1_1,Almar,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.2_1,Andkhoy,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.3_1,Bilchiragh,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.4_1,Dawlat abad,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.5_1,Khan Char Bagh,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.6_1,Khwaja Sabz Posh,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.7_1,Kohistan,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.8_1,Maymana,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.9_1,Pashtun Kot,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.10_1,Qaram Qol,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.11_1,Qaysar,,,0.0,
+AFG,2,AFG,,AFG.8_1,Faryab,AFG.8.12_1,Shirin Tagab,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.1_1,Ab Band,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.2_1,Ajristan,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.3_1,Andar,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.4_1,Dihyak,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.5_1,Gelan,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.6_1,Ghazni,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.7_1,Giro,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.8_1,Jaghatu,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.9_1,Jaghuri,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.10_1,Malistan,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.11_1,Muqur,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.12_1,Nawa,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.13_1,Nawur,,,6.85,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.14_1,Qarabagh,,,0.0,
+AFG,2,AFG,,AFG.9_1,Ghazni,AFG.9.15_1,Zana Khan,,,0.0,
+AFG,2,AFG,,AFG.10_1,Ghor,AFG.10.1_1,Chaghcharan,,,0.0,
+AFG,2,AFG,,AFG.10_1,Ghor,AFG.10.2_1,Lal Wa Sarjangal,,,0.0,
+AFG,2,AFG,,AFG.10_1,Ghor,AFG.10.3_1,Pasaband,,,0.0,
+AFG,2,AFG,,AFG.10_1,Ghor,AFG.10.4_1,Saghar,,,0.0,
+AFG,2,AFG,,AFG.10_1,Ghor,AFG.10.5_1,Shahrak,,,0.0,
+AFG,2,AFG,,AFG.10_1,Ghor,AFG.10.6_1,Taywara,,,0.0,
+AFG,2,AFG,,AFG.10_1,Ghor,AFG.10.7_1,Tulak,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.1_1,Bughran,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.2_1,Disho,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.3_1,Garmser,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.4_1,Kajaki,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.5_1,Lashkargah,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.6_1,Musa Qala,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.7_1,Nad Ali,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.8_1,Nahri Sarraj,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.9_1,Naw Zad,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.10_1,Nawa-i-Barak Zayi,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.11_1,Reg,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.12_1,Sangin,,,0.0,
+AFG,2,AFG,,AFG.11_1,Hilmand,AFG.11.13_1,Washer,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.1_1,Adraskan,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.2_1,Chishti Sharif,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.3_1,Farsi,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.4_1,Ghoryan,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.5_1,Gulran,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.6_1,Guzara,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.7_1,Hirat City,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.8_1,Injil,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.9_1,Karukh,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.10_1,Kuhsan,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.11_1,Kushk,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.12_1,Kushki Kuhna,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.13_1,Obe,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.14_1,Pashtun Zarghun,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.15_1,Shindand,,,0.0,
+AFG,2,AFG,,AFG.12_1,Hirat,AFG.12.16_1,Zinda Jan,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.1_1,Aqcha,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.2_1,Darzab,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.3_1,Fayz abad,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.4_1,Khamyab,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.5_1,Khwaja Du Koh,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.6_1,Mardyan,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.7_1,Mingajik,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.8_1,Qarqin,,,0.0,
+AFG,2,AFG,,AFG.13_1,Jawzjan,AFG.13.9_1,Shibirghan,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.1_1,Bagrami,,,0.45,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.2_1,Chahar Asyab,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.3_1,Dih Sabz,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.4_1,Gul dara,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.5_1,Istalif,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.6_1,Kabul City,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.7_1,Kalakan,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.8_1,Khaki Jabar,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.9_1,Mirbacha Kot,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.10_1,Musayi,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.11_1,Paghman,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.12_1,Qarabagh,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.13_1,Shakar Dara,,,0.0,
+AFG,2,AFG,,AFG.14_1,Kabul,AFG.14.14_1,Surobi,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.1_1,Arghandab,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.2_1,Arghistan,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.3_1,Daman,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.4_1,Ghorak,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.5_1,Kandahar City,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.6_1,Khakrez,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.7_1,Maruf,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.8_1,Maywand,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.9_1,Panjwayi,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.10_1,Reg,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.11_1,Shah Wali Kot,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.12_1,Shorabak,,,0.0,
+AFG,2,AFG,,AFG.15_1,Kandahar,AFG.15.13_1,Spin Boldak,,,0.0,
+AFG,2,AFG,,AFG.16_1,Kapisa,AFG.16.1_1,Alasay,,,0.0,
+AFG,2,AFG,,AFG.16_1,Kapisa,AFG.16.2_1,Kohband,,,0.0,
+AFG,2,AFG,,AFG.16_1,Kapisa,AFG.16.3_1,Kohistan,,,0.0,
+AFG,2,AFG,,AFG.16_1,Kapisa,AFG.16.4_1,Mahmud Raqi,,,0.0,
+AFG,2,AFG,,AFG.16_1,Kapisa,AFG.16.5_1,Nijrab,,,0.0,
+AFG,2,AFG,,AFG.16_1,Kapisa,AFG.16.6_1,Tagab,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.1_1,Bak,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.2_1,Gurbuz,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.3_1,Jaji Maydan,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.4_1,Khost (Matun),,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.5_1,Mando Zayi,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.6_1,Musa Khel,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.7_1,Nadir Shah Kot,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.8_1,Qalandar,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.9_1,Sabari,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.10_1,Spera,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.11_1,Tani,,,0.0,
+AFG,2,AFG,,AFG.17_1,Khost,AFG.17.12_1,Tere Zayi,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.1_1,Asad abad,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.2_1,Bar Kunar,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.3_1,Chapa Dara,,,0.7,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.4_1,Chawkay,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.5_1,Dangam,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.6_1,Dara-i-Pech,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.7_1,Khas Kunar,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.8_1,Marwara,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.9_1,Nali,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.10_1,Narang Wa Badil,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.11_1,Nurgal,,,0.0,
+AFG,2,AFG,,AFG.18_1,Kunar,AFG.18.12_1,Sirkanay,,,0.0,
+AFG,2,AFG,,AFG.19_1,Kunduz,AFG.19.1_1,Ali abad,,,0.0,
+AFG,2,AFG,,AFG.19_1,Kunduz,AFG.19.2_1,Char Dara,,,0.0,
+AFG,2,AFG,,AFG.19_1,Kunduz,AFG.19.3_1,Dashti Archi,,,0.0,
+AFG,2,AFG,,AFG.19_1,Kunduz,AFG.19.4_1,Hazrati Imam,,,27.83,
+AFG,2,AFG,,AFG.19_1,Kunduz,AFG.19.5_1,Khan Abad,,,0.0,
+AFG,2,AFG,,AFG.19_1,Kunduz,AFG.19.6_1,Kunduz,,,0.0,
+AFG,2,AFG,,AFG.19_1,Kunduz,AFG.19.7_1,Qala-I-Zal,,,6.4,
+AFG,2,AFG,,AFG.20_1,Laghman,AFG.20.1_1,Alingar,,,0.0,
+AFG,2,AFG,,AFG.20_1,Laghman,AFG.20.2_1,Alishing,,,0.0,
+AFG,2,AFG,,AFG.20_1,Laghman,AFG.20.3_1,Dawlat Shah,,,0.0,
+AFG,2,AFG,,AFG.20_1,Laghman,AFG.20.4_1,Mihtarlam,,,0.0,
+AFG,2,AFG,,AFG.20_1,Laghman,AFG.20.5_1,Qarghayi,,,0.0,
+AFG,2,AFG,,AFG.21_1,Logar,AFG.21.1_1,Baraki Barak,,,0.0,
+AFG,2,AFG,,AFG.21_1,Logar,AFG.21.2_1,Charkh,,,0.0,
+AFG,2,AFG,,AFG.21_1,Logar,AFG.21.3_1,Khushi,,,0.0,
+AFG,2,AFG,,AFG.21_1,Logar,AFG.21.4_1,Muhammad Agha,,,0.0,
+AFG,2,AFG,,AFG.21_1,Logar,AFG.21.5_1,Puli Alam,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.1_1,Achin,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.2_1,Bati Kot,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.3_1,Chaparhar,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.4_1,Dara-I-Nur,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.5_1,Dih Bala,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.6_1,Dur Baba,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.7_1,Goshta,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.8_1,Hisarak,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.9_1,Jalal abad,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.10_1,Kama,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.11_1,Khogyani,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.12_1,Kuz Kunar,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.13_1,Lal Pur,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.14_1,Muhmand Dara,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.15_1,Nazyan,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.16_1,Pachir Wa Agam,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.17_1,Rodat,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.18_1,Sherzad,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.19_1,Shinwar,,,0.0,
+AFG,2,AFG,,AFG.22_1,Nangarhar,AFG.22.20_1,Surkh Rod,,,0.0,
+AFG,2,AFG,,AFG.23_1,Nimroz,AFG.23.1_1,Chakhansur,,,0.0,
+AFG,2,AFG,,AFG.23_1,Nimroz,AFG.23.2_1,Char Burjak,,,0.0,
+AFG,2,AFG,,AFG.23_1,Nimroz,AFG.23.3_1,Kang,,,0.0,
+AFG,2,AFG,,AFG.23_1,Nimroz,AFG.23.4_1,Khash Rod,,,0.0,
+AFG,2,AFG,,AFG.23_1,Nimroz,AFG.23.5_1,Zaranj,,,0.0,
+AFG,2,AFG,,AFG.24_1,Nuristan,AFG.24.1_1,Bargi Matal,,,61.47,
+AFG,2,AFG,,AFG.24_1,Nuristan,AFG.24.2_1,Kamdesh,,,3.59,
+AFG,2,AFG,,AFG.24_1,Nuristan,AFG.24.3_1,Mandol,,,16.54,
+AFG,2,AFG,,AFG.24_1,Nuristan,AFG.24.4_1,Nuristan,,,32.93,
+AFG,2,AFG,,AFG.24_1,Nuristan,AFG.24.5_1,Wama,,,85.55,
+AFG,2,AFG,,AFG.24_1,Nuristan,AFG.24.6_1,Waygal,,,8.61,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.1_1,Burmul,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.2_1,Dila,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.3_1,Gayan,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.4_1,Gomal,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.5_1,Mata Khan,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.6_1,Nika,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.7_1,Omna,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.8_1,Sar Hawza,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.9_1,Sarobi,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.10_1,Sharan,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.11_1,Urgun,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.12_1,Wazakhwa,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.13_1,Wolmamay,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.14_1,Zarghun Shahr,,,0.0,
+AFG,2,AFG,,AFG.25_1,Paktika,AFG.25.15_1,Ziluk,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.1_1,Azro,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.2_1,Chamkani,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.3_1,Dand Wa Patan,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.4_1,Gardez,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.5_1,Jadran,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.6_1,Jaji,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.7_1,Jani Khel,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.8_1,Lija Mangal,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.9_1,Sayid Karam,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.10_1,Shamul,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.11_1,Shwak,,,0.0,
+AFG,2,AFG,,AFG.26_1,Paktya,AFG.26.12_1,Zurmat,,,0.0,
+AFG,2,AFG,,AFG.27_1,Panjshir,AFG.27.1_1,Hisa-I-Awali Panjsher,,,0.0,
+AFG,2,AFG,,AFG.27_1,Panjshir,AFG.27.2_1,Hisa-I-Duwum Panjsher,,,0.0,
+AFG,2,AFG,,AFG.27_1,Panjshir,AFG.27.3_1,Panjsher,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.1_1,Bagram,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.2_1,Chaharikar,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.3_1,Ghorband,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.4_1,Jabalussaraj,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.5_1,Kohi Safi,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.6_1,Salang,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.7_1,Shekh Ali,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.8_1,Shinwari,,,0.0,
+AFG,2,AFG,,AFG.28_1,Parwan,AFG.28.9_1,Surkhi Parsa,,,0.0,
+AFG,2,AFG,,AFG.29_1,Samangan,AFG.29.1_1,Aybak,,,0.0,
+AFG,2,AFG,,AFG.29_1,Samangan,AFG.29.2_1,Dara-i-Suf,,,0.0,
+AFG,2,AFG,,AFG.29_1,Samangan,AFG.29.3_1,Hazrati Sultan,,,0.0,
+AFG,2,AFG,,AFG.29_1,Samangan,AFG.29.4_1,Khuram Wa Sarbagh,,,0.0,
+AFG,2,AFG,,AFG.29_1,Samangan,AFG.29.5_1,Royi Du Ab,,,0.0,
+AFG,2,AFG,,AFG.30_1,Sari Pul,AFG.30.1_1,Balkhab,,,0.0,
+AFG,2,AFG,,AFG.30_1,Sari Pul,AFG.30.2_1,Kohistanat,,,0.0,
+AFG,2,AFG,,AFG.30_1,Sari Pul,AFG.30.3_1,Sangcharak,,,0.0,
+AFG,2,AFG,,AFG.30_1,Sari Pul,AFG.30.4_1,Sar-i-Pul City,,,0.0,
+AFG,2,AFG,,AFG.30_1,Sari Pul,AFG.30.5_1,Sayyad,,,0.0,
+AFG,2,AFG,,AFG.30_1,Sari Pul,AFG.30.6_1,Sozma Qala,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.1_1,Bangi,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.2_1,Chah Ab,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.3_1,Chal,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.4_1,Darqad,,,99.42,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.5_1,Farkhar,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.6_1,Ishkamish,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.7_1,Kalafgan,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.8_1,Khwaja Ghar,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.9_1,Rustaq,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.10_1,Taluqan,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.11_1,Warsaj,,,0.0,
+AFG,2,AFG,,AFG.31_1,Takhar,AFG.31.12_1,Yangi Qala,,,14.52,
+AFG,2,AFG,,AFG.32_1,Uruzgan,AFG.32.1_1,Chora,,,0.0,
+AFG,2,AFG,,AFG.32_1,Uruzgan,AFG.32.2_1,Dihrawud,,,0.0,
+AFG,2,AFG,,AFG.32_1,Uruzgan,AFG.32.3_1,Khas Uruzgan,,,0.0,
+AFG,2,AFG,,AFG.32_1,Uruzgan,AFG.32.4_1,Nesh,,,0.0,
+AFG,2,AFG,,AFG.32_1,Uruzgan,AFG.32.5_1,Shahidi Hasas,,,0.0,
+AFG,2,AFG,,AFG.32_1,Uruzgan,AFG.32.6_1,Tirin Kot,,,0.0,
+AFG,2,AFG,,AFG.33_1,Wardak,AFG.33.1_1,Chak,,,0.0,
+AFG,2,AFG,,AFG.33_1,Wardak,AFG.33.2_1,Daymirdad,,,0.0,
+AFG,2,AFG,,AFG.33_1,Wardak,AFG.33.3_1,Hisa-i-Awali Bihsud,,,0.02,
+AFG,2,AFG,,AFG.33_1,Wardak,AFG.33.4_1,Jalrez,,,0.0,
+AFG,2,AFG,,AFG.33_1,Wardak,AFG.33.5_1,Markazi Bihsud,,,1.46,
+AFG,2,AFG,,AFG.33_1,Wardak,AFG.33.6_1,Maydan Shahr,,,0.0,
+AFG,2,AFG,,AFG.33_1,Wardak,AFG.33.7_1,Nirkh,,,0.0,
+AFG,2,AFG,,AFG.33_1,Wardak,AFG.33.8_1,Sayid Abad,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.1_1,Arghandab,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.2_1,Atghar,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.3_1,Daychopan,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.4_1,Mizan,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.5_1,Qalat,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.6_1,Shahjoy,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.7_1,Shamul zayi,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.8_1,Shinkay,,,0.0,
+AFG,2,AFG,,AFG.34_1,Zabul,AFG.34.9_1,Tarnak Wa Jaldak,,,0.0,
+BGD,2,BGD,,BGD.1_1,Barisal,BGD.1.1_1,Barguna,,,2.05,
+BGD,2,BGD,,BGD.1_1,Barisal,BGD.1.2_1,Barisal,,,0.0,
+BGD,2,BGD,,BGD.1_1,Barisal,BGD.1.3_1,Bhola,,,4.47,
+BGD,2,BGD,,BGD.1_1,Barisal,BGD.1.4_1,Jhalokati,,,0.0,
+BGD,2,BGD,,BGD.1_1,Barisal,BGD.1.5_1,Patuakhali,,,1.04,
+BGD,2,BGD,,BGD.1_1,Barisal,BGD.1.6_1,Pirojpur,,,0.0,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.1_1,Bandarban,,,1.39,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.2_1,Brahamanbaria,,,0.0,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.3_1,Chandpur,,,0.0,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.4_1,Chittagong,,,3.73,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.5_1,Comilla,,,0.0,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.6_1,Cox'S Bazar,,,11.72,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.7_1,Feni,,,0.0,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.8_1,Khagrachhari,,,0.0,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.9_1,Lakshmipur,,,0.0,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.10_1,Noakhali,,,2.14,
+BGD,2,BGD,,BGD.2_1,Chittagong,BGD.2.11_1,Rangamati,,,8.59,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.1_1,Dhaka,,,0.05,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.2_1,Faridpur,,,0.32,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.3_1,Gazipur,,,5.19,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.4_1,Gopalganj,,,0.0,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.6_1,Kishoreganj,,,0.0,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.7_1,Madaripur,,,4.42,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.8_1,Manikganj,,,0.0,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.9_1,Munshiganj,,,1.91,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.11_1,Narayanganj,,,0.0,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.12_1,Narsingdi,,,0.0,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.14_1,Rajbari,,,0.0,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.15_1,Shariatpur,,,3.22,
+BGD,2,BGD,,BGD.3_1,Dhaka,BGD.3.17_1,Tangail,,,2.25,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.1_1,Bagerhat,,,45.56,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.2_1,Chuadanga,,,0.0,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.3_1,Jessore,,,0.0,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.4_1,Jhenaidah,,,0.0,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.5_1,Khulna,,,42.41,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.6_1,Kushtia,,,0.0,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.7_1,Magura,,,0.0,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.8_1,Meherpur,,,0.0,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.9_1,Narail,,,0.0,
+BGD,2,BGD,,BGD.4_1,Khulna,BGD.4.10_1,Satkhira,,,32.57,
+BGD,2,BGD,,BGD.8_1,Mymensingh,BGD.8.5_1,Jamalpur,,,0.0,
+BGD,2,BGD,,BGD.8_1,Mymensingh,BGD.8.10_1,Mymensingh,,,0.29,
+BGD,2,BGD,,BGD.8_1,Mymensingh,BGD.8.13_1,Netrakona,,,0.0,
+BGD,2,BGD,,BGD.8_1,Mymensingh,BGD.8.16_1,Sherpur,,,0.0,
+BGD,2,BGD,,BGD.5_1,Rajshahi,BGD.5.1_1,Bogra,,,0.0,
+BGD,2,BGD,,BGD.5_1,Rajshahi,BGD.5.2_1,Joypurhat,,,0.0,
+BGD,2,BGD,,BGD.5_1,Rajshahi,BGD.5.3_1,Naogaon,,,0.06,
+BGD,2,BGD,,BGD.5_1,Rajshahi,BGD.5.4_1,Natore,,,0.0,
+BGD,2,BGD,,BGD.5_1,Rajshahi,BGD.5.5_1,Nawabganj,,,0.0,
+BGD,2,BGD,,BGD.5_1,Rajshahi,BGD.5.6_1,Pabna,,,0.19,
+BGD,2,BGD,,BGD.5_1,Rajshahi,BGD.5.7_1,Rajshahi,,,0.0,
+BGD,2,BGD,,BGD.5_1,Rajshahi,BGD.5.8_1,Sirajganj,,,0.0,
+BGD,2,BGD,,BGD.6_1,Rangpur,BGD.6.1_1,Dinajpur,,,0.55,
+BGD,2,BGD,,BGD.6_1,Rangpur,BGD.6.2_1,Gaibandha,,,0.0,
+BGD,2,BGD,,BGD.6_1,Rangpur,BGD.6.3_1,Kurigram,,,0.0,
+BGD,2,BGD,,BGD.6_1,Rangpur,BGD.6.4_1,Lalmonirhat,,,0.0,
+BGD,2,BGD,,BGD.6_1,Rangpur,BGD.6.5_1,Nilphamari,,,0.0,
+BGD,2,BGD,,BGD.6_1,Rangpur,BGD.6.6_1,Panchagarh,,,0.0,
+BGD,2,BGD,,BGD.6_1,Rangpur,BGD.6.7_1,Rangpur,,,0.0,
+BGD,2,BGD,,BGD.6_1,Rangpur,BGD.6.8_1,Thakurgaon,,,0.0,
+BGD,2,BGD,,BGD.7_1,Sylhet,BGD.7.1_1,Habiganj,,,2.04,
+BGD,2,BGD,,BGD.7_1,Sylhet,BGD.7.2_1,Maulvibazar,,,0.92,
+BGD,2,BGD,,BGD.7_1,Sylhet,BGD.7.3_1,Sunamganj,,,0.0,
+BGD,2,BGD,,BGD.7_1,Sylhet,BGD.7.4_1,Sylhet,,,0.29,
+BTN,2,BTN,,BTN.1_1,Bumthang,BTN.1.1_1,Chhoekhor,,,86.37,
+BTN,2,BTN,,BTN.1_1,Bumthang,BTN.1.2_1,Chhume,,,29.44,
+BTN,2,BTN,,BTN.1_1,Bumthang,BTN.1.3_1,Tang,,,55.19,
+BTN,2,BTN,,BTN.1_1,Bumthang,BTN.1.4_1,Ura,,,49.7,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.1_1,Bjachho,,,20.53,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.2_1,Bongo,,,29.93,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.3_1,Chapchha,,,0.0,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.4_1,Darla,,,0.0,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.5_1,Dungna,,,0.0,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.6_1,Geling,,,0.0,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.7_1,Getana,,,42.14,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.8_1,Logchina,,,0.0,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.9_1,Metap,,,0.0,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.10_1,Phuentsholing,,,0.0,
+BTN,2,BTN,,BTN.2_1,Chhukha,BTN.2.11_1,Samphelling,,,0.0,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.2_1,Dorona,,,0.0,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.3_1,Drugyelgang,,,2.6,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.4_1,Gesarling,,,0.0,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.5_1,Gozhi,,,0.66,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.6_1,Kalidzingkha,,,1.11,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.1_1,Karmaling,,,0.24,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.7_1,Khipisa,,,3.86,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.8_1,Lajab,,,0.37,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.9_1,Lhamoi Zingkha,,,0.0,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.10_1,Nichula,,,83.74,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.11_1,Trashiding,,,3.39,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.12_1,Tsangkha,,,0.78,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.13_1,Tsendagang,,,1.46,
+BTN,2,BTN,,BTN.3_1,Dagana,BTN.3.14_1,Tseza,,,2.21,
+BTN,2,BTN,,BTN.4_1,Gasa,BTN.4.1_1,Khamaed,,,100.0,
+BTN,2,BTN,,BTN.4_1,Gasa,BTN.4.2_1,Khatoe,,,100.0,
+BTN,2,BTN,,BTN.4_1,Gasa,BTN.4.3_1,Laya,,,99.76,
+BTN,2,BTN,,BTN.4_1,Gasa,BTN.4.4_1,Lunana,,,99.8,
+BTN,2,BTN,,BTN.5_1,Haa,BTN.5.1_1,Bji,,,78.79,
+BTN,2,BTN,,BTN.5_1,Haa,BTN.5.2_1,Gakiling,,,6.88,
+BTN,2,BTN,,BTN.5_1,Haa,BTN.5.3_1,Katsho,,,0.0,
+BTN,2,BTN,,BTN.5_1,Haa,BTN.5.4_1,Sama,,,0.2,
+BTN,2,BTN,,BTN.5_1,Haa,BTN.5.5_1,Sangbay,,,49.97,
+BTN,2,BTN,,BTN.5_1,Haa,BTN.5.6_1,Uesu,,,0.0,
+BTN,2,BTN,,BTN.6_1,Lhuentse,BTN.6.1_1,Gangzur,,,87.07,
+BTN,2,BTN,,BTN.6_1,Lhuentse,BTN.6.2_1,Jaray,,,52.17,
+BTN,2,BTN,,BTN.6_1,Lhuentse,BTN.6.3_1,Khoma,,,93.14,
+BTN,2,BTN,,BTN.6_1,Lhuentse,BTN.6.4_1,Kurtoed,,,99.72,
+BTN,2,BTN,,BTN.6_1,Lhuentse,BTN.6.5_1,Menbi,,,45.28,
+BTN,2,BTN,,BTN.6_1,Lhuentse,BTN.6.6_1,Metsho,,,60.52,
+BTN,2,BTN,,BTN.6_1,Lhuentse,BTN.6.7_1,Minjay,,,61.04,
+BTN,2,BTN,,BTN.6_1,Lhuentse,BTN.6.8_1,Tsenkhar,,,41.44,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.1_1,Balam,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.3_1,Chali,,,1.3,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.2_1,Chaskhar,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.4_1,Drametse,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.5_1,Drepong,,,0.65,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.6_1,Gongdue,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.7_1,Jurmey,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.8_1,Kengkhar,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.9_1,Mongar,,,1.37,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.10_1,Narang,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.11_1,Ngatshang,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.12_1,Saling,,,37.88,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.13_1,Shermuhoong,,,68.22,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.14_1,Silambi,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.15_1,Thangrong,,,0.0,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.16_1,Tsakaling,,,5.51,
+BTN,2,BTN,,BTN.7_1,Monggar,BTN.7.17_1,Tsamang,,,63.25,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.1_1,Doga,,,0.0,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.2_1,Dopshari,,,0.0,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.3_1,Doteng,,,34.7,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.4_1,Hungrel,,,0.0,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.5_1,Lamgong,,,0.0,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.6_1,Lungnyi,,,0.0,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.7_1,Naja,,,0.0,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.8_1,Shapa,,,0.0,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.9_1,Tsento,,,59.07,
+BTN,2,BTN,,BTN.8_1,Paro,BTN.8.10_1,Wangchang,,,0.0,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.1_1,Chimoong,,,0.0,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.2_1,Chokhorling,,,44.86,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.3_1,Chongshing,,,0.0,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.4_1,Dechhenling,,,0.37,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.5_1,Dungmaed,,,0.0,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.6_1,Khar,,,0.0,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.7_1,Nanong,,,0.0,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.8_1,Norbugang,,,51.56,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.9_1,Shumer,,,0.0,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.10_1,Yurung,,,0.0,
+BTN,2,BTN,,BTN.9_1,Pema Gatshel,BTN.9.11_1,Zobel,,,0.0,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.1_1,Barp,,,0.01,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.2_1,Chhubug,,,26.29,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.3_1,Dzomi,,,0.0,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.4_1,Goenshari,,,97.87,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.5_1,Guma,,,0.03,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.6_1,Kabisa,,,78.6,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.7_1,Lingmukha,,,0.0,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.8_1,Shenga Bjemi,,,0.0,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.9_1,Talog,,,0.0,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.10_1,Toepisa,,,64.7,
+BTN,2,BTN,,BTN.10_1,Punakha,BTN.10.11_1,Toewang,,,72.8,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.1_1,Dewathang,,,43.35,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.2_1,Gomdar,,,0.0,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.4_1,Langchhenphu,,,99.21,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.5_1,Lauri,,,15.59,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.6_1,Martshala,,,21.86,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.3_1,Orong,,,2.95,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.7_1,Pemathang,,,43.58,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.8_1,Phuntsthothang,,,47.31,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.9_1,Samrang,,,78.11,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.10_1,Serthi,,,39.09,
+BTN,2,BTN,,BTN.11_1,Samdrup Jongkhar,BTN.11.11_1,Wangphu,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.5_1,Denchhukha,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.6_1,Dophoogchen,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.7_1,Dungtoe,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.8_1,Namgaychhoeling,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.4_1,Norbugang,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.1_1,Norgaygang,,,15.11,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.2_1,Pemaling,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.9_1,Phuentshogpelri,,,0.02,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.10_1,Samtse,,,0.01,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.3_1,Sangngagchhoeling,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.12_1,Tading,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.11_1,Tashicholing,,,0.0,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.13_1,Tendruk,,,16.16,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.14_1,Ugentse,,,7.5,
+BTN,2,BTN,,BTN.12_1,Samtse,BTN.12.15_1,Yoeseltse,,,0.0,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.4_1,Chhudzom,,,31.91,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.2_1,Chhuzagang,,,0.0,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.3_1,Dekiling,,,36.28,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.6_1,Gakiling,,,50.75,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.5_1,Gelephu,,,19.3,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.7_1,Jigmichhoeling,,,83.56,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.1_1,Samtenling,,,21.65,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.8_1,Senggey,,,92.88,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.9_1,Sherzhong,,,46.64,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.10_1,Shompangkha,,,0.0,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.11_1,Tareythang,,,85.29,
+BTN,2,BTN,,BTN.13_1,Sarpang,BTN.13.12_1,Umling,,,60.23,
+BTN,2,BTN,,BTN.14_1,Thimphu,BTN.14.1_1,Chang,,,6.8,
+BTN,2,BTN,,BTN.14_1,Thimphu,BTN.14.2_1,Darkala,,,0.08,
+BTN,2,BTN,,BTN.14_1,Thimphu,BTN.14.3_1,Genye,,,0.0,
+BTN,2,BTN,,BTN.14_1,Thimphu,BTN.14.4_1,Kawang,,,23.48,
+BTN,2,BTN,,BTN.14_1,Thimphu,BTN.14.5_1,Lingzhi,,,99.88,
+BTN,2,BTN,,BTN.14_1,Thimphu,BTN.14.6_1,Mewang,,,0.0,
+BTN,2,BTN,,BTN.14_1,Thimphu,BTN.14.7_1,Naro,,,98.15,
+BTN,2,BTN,,BTN.14_1,Thimphu,BTN.14.8_1,Soe,,,92.66,
+BTN,2,BTN,,BTN.19_1,Trashi Yangtse,BTN.19.1_1,Bumdeling,,,91.88,
+BTN,2,BTN,,BTN.19_1,Trashi Yangtse,BTN.19.2_1,Jamkhar,,,0.9,
+BTN,2,BTN,,BTN.19_1,Trashi Yangtse,BTN.19.3_1,Khamdang,,,8.71,
+BTN,2,BTN,,BTN.19_1,Trashi Yangtse,BTN.19.4_1,Ramjar,,,0.0,
+BTN,2,BTN,,BTN.19_1,Trashi Yangtse,BTN.19.5_1,Toetsho,,,62.49,
+BTN,2,BTN,,BTN.19_1,Trashi Yangtse,BTN.19.6_1,Tongzhang,,,0.53,
+BTN,2,BTN,,BTN.19_1,Trashi Yangtse,BTN.19.8_1,Yalang,,,59.78,
+BTN,2,BTN,,BTN.19_1,Trashi Yangtse,BTN.19.7_1,Yangtse,,,26.62,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.1_1,Bartsham,,,0.0,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.2_1,Bidung,,,0.32,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.3_1,Kanglung,,,0.0,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.4_1,Kangpar,,,0.13,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.5_1,Khaling,,,7.76,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.6_1,Lumang,,,2.47,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.7_1,Merag,,,76.05,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.8_1,Phongmed,,,35.31,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.9_1,Radi,,,0.0,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.10_1,Sagteng,,,99.49,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.11_1,Samkhar,,,0.0,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.12_1,Shongphoog,,,0.0,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.13_1,Thrimshing,,,0.0,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.14_1,Uzorong,,,0.0,
+BTN,2,BTN,,BTN.15_1,Trashigang,BTN.15.15_1,Yangnyer,,,0.0,
+BTN,2,BTN,,BTN.16_1,Trongsa,BTN.16.1_1,Dragteng,,,0.25,
+BTN,2,BTN,,BTN.16_1,Trongsa,BTN.16.2_1,Korpoog,,,99.89,
+BTN,2,BTN,,BTN.16_1,Trongsa,BTN.16.3_1,Langthil,,,64.34,
+BTN,2,BTN,,BTN.16_1,Trongsa,BTN.16.4_1,Nubi,,,62.98,
+BTN,2,BTN,,BTN.16_1,Trongsa,BTN.16.5_1,Tangsibji,,,80.98,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.1_1,Barshong,,,11.94,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.3_1,Dunglegang,,,23.08,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.4_1,Gosarling,,,0.0,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.5_1,Kikorthang,,,0.0,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.6_1,Mendrelgang,,,0.92,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.2_1,Patshaling,,,18.95,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.8_1,Phuntenchu,,,15.34,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.9_1,Rangthangling,,,3.84,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.7_1,Sergithang,,,11.14,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.10_1,Shemjong,,,0.0,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.11_1,Tsholingkhor,,,4.27,
+BTN,2,BTN,,BTN.17_1,Tsirang,BTN.17.12_1,Tsirangtoe,,,2.43,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.1_1,Athang,,,78.3,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.2_1,Bjenag,,,27.39,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.4_1,Dangchu,,,52.66,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.3_1,Darkar,,,46.69,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.5_1,Gangteng,,,62.21,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.6_1,Gasetsho Gom,,,9.93,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.7_1,Gasetsho Wom,,,35.21,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.8_1,Kazhi,,,75.69,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.9_1,Nahi,,,68.31,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.10_1,Nyisho,,,53.36,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.11_1,Phangyul,,,0.0,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.12_1,Phobji,,,41.73,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.13_1,Ruepisa,,,0.0,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.14_1,Sephu,,,94.3,
+BTN,2,BTN,,BTN.18_1,Wangdue Phodrang,BTN.18.15_1,Thedtsho,,,0.0,
+BTN,2,BTN,,BTN.20_1,Zhemgang,BTN.20.1_1,Bardo,,,0.74,
+BTN,2,BTN,,BTN.20_1,Zhemgang,BTN.20.2_1,Bjoka,,,0.0,
+BTN,2,BTN,,BTN.20_1,Zhemgang,BTN.20.3_1,Goshing,,,0.42,
+BTN,2,BTN,,BTN.20_1,Zhemgang,BTN.20.4_1,Nangkor,,,59.26,
+BTN,2,BTN,,BTN.20_1,Zhemgang,BTN.20.5_1,Ngangla,,,14.38,
+BTN,2,BTN,,BTN.20_1,Zhemgang,BTN.20.6_1,Pangkhar,,,99.87,
+BTN,2,BTN,,BTN.20_1,Zhemgang,BTN.20.7_1,Shingkhar,,,77.96,
+BTN,2,BTN,,BTN.20_1,Zhemgang,BTN.20.8_1,Trong,,,79.0,
+IND,2,IND,,IND.1_1,Andaman and Nicobar,IND.1.1_1,Nicobar Islands,,,0.0,
+IND,2,IND,,IND.1_1,Andaman and Nicobar,IND.1.2_1,North and Middle Andaman,,,0.0,
+IND,2,IND,,IND.1_1,Andaman and Nicobar,IND.1.3_1,South Andaman,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.1_1,Anantapur,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.2_1,Chittoor,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.3_1,East Godavari,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.4_1,Guntur,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.5_1,Krishna,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.6_1,Kurnool,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.7_1,Nellore,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.8_1,Prakasam,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.9_1,Srikakulam,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.10_1,Visakhapatnam,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.11_1,Vizianagaram,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.12_1,West Godavari,,,0.0,
+IND,2,IND,,IND.2_1,Andhra Pradesh,IND.2.13_1,Y.S.R.,,,0.0,
+IND,2,IND,,IND.3_1,Arunachal Pradesh,IND.3.1_1,Anjaw,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.1_1,Anjaw,,,0.0,
+IND,2,IND,,IND.3_1,Arunachal Pradesh,IND.3.2_1,Changlang,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.3_1,Dibang Valley,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.4_1,East Kameng,,,0.0,
+IND,2,IND,,IND.3_1,Arunachal Pradesh,IND.3.5_1,East Siang,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.5_1,East Siang,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.6_1,Kurung Kumey,,,0.0,
+IND,2,IND,,IND.3_1,Arunachal Pradesh,IND.3.7_1,Lohit,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.7_1,Lohit,,,0.0,
+IND,2,IND,,IND.3_1,Arunachal Pradesh,IND.3.8_1,Longding,,,0.0,
+IND,2,IND,,IND.3_1,Arunachal Pradesh,IND.3.9_1,Lower Dibang Valley,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.9_1,Lower Dibang Valley,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.10_1,Lower Subansiri,,,0.0,
+IND,2,IND,,IND.3_1,Arunachal Pradesh,IND.3.11_1,Namsai,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.12_1,Papum Pare,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.13_1,Tawang,,,0.0,
+IND,2,IND,,IND.3_1,Arunachal Pradesh,IND.3.14_1,Tirap,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.15_1,Upper Siang,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.16_1,Upper Subansiri,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.17_1,West Kameng,,,0.0,
+IND,2,Z07,,Z07.3_1,Arunachal Pradesh,Z07.3.18_1,West Siang,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.1_1,Baksa,,,13.42,
+IND,2,IND,,IND.4_1,Assam,IND.4.2_1,Barpeta,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.3_1,Bongaigaon,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.4_1,Cachar,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.5_1,Chirang,,,10.46,
+IND,2,IND,,IND.4_1,Assam,IND.4.6_1,Darrang,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.7_1,Dhemaji,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.8_1,Dhubri,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.9_1,Dibrugarh,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.10_1,Dima Hasao,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.11_1,Goalpara,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.12_1,Golaghat,,,9.04,
+IND,2,IND,,IND.4_1,Assam,IND.4.13_1,Hailakandi,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.14_1,Jorhat,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.16_1,Kamrup,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.15_1,Kamrup Metropolitan,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.17_1,Karbi Anglong,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.18_1,Karimganj,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.19_1,Kokrajhar,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.20_1,Lakhimpur,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.21_1,Morigaon,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.22_1,Nagaon,,,2.69,
+IND,2,IND,,IND.4_1,Assam,IND.4.23_1,Nalbari,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.24_1,Sivasagar,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.25_1,Sonitpur,,,0.06,
+IND,2,IND,,IND.4_1,Assam,IND.4.26_1,Tinsukia,,,0.0,
+IND,2,IND,,IND.4_1,Assam,IND.4.27_1,Udalguri,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.1_1,Araria,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.2_1,Arwal,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.3_1,Aurangabad,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.4_1,Banka,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.5_1,Begusarai,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.6_1,Bhagalpur,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.7_1,Bhojpur,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.8_1,Buxar,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.9_1,Darbhanga,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.10_1,Gaya,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.11_1,Gopalganj,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.12_1,Jamui,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.13_1,Jehanabad,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.14_1,Kaimur,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.15_1,Katihar,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.16_1,Khagaria,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.17_1,Kishanganj,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.18_1,Lakhisarai,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.19_1,Madhepura,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.20_1,Madhubani,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.21_1,Munger,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.22_1,Muzaffarpur,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.23_1,Nalanda,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.24_1,Nawada,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.25_1,Pashchim Champaran,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.26_1,Patna,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.27_1,Purba Champaran,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.28_1,Purnia,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.29_1,Rohtas,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.30_1,Saharsa,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.31_1,Samastipur,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.32_1,Saran,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.33_1,Sheikhpura,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.34_1,Sheohar,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.35_1,Sitamarhi,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.36_1,Siwan,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.37_1,Supaul,,,0.0,
+IND,2,IND,,IND.5_1,Bihar,IND.5.38_1,Vaishali,,,0.0,
+IND,2,IND,,IND.6_1,Chandigarh,IND.6.1_1,Chandigarh,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.2_1,Balod,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.1_1,Baloda Bazar,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.3_1,Balrampur,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.4_1,Bastar,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.5_1,Bemetara,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.6_1,Bijapur,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.7_1,Bilaspur,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.8_1,Dantewada,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.9_1,Dhamtari,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.10_1,Durg,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.11_1,Gariaband,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.12_1,Janjgir-Champa,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.13_1,Jashpur,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.14_1,Kabeerdham,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.15_1,Kondagaon,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.16_1,Korba,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.17_1,Koriya,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.18_1,Mahasamund,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.19_1,Mungeli,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.20_1,Narayanpur,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.21_1,Raigarh,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.22_1,Raipur,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.23_1,Rajnandgaon,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.24_1,Sukma,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.25_1,Surajpur,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.26_1,Surguja,,,0.0,
+IND,2,IND,,IND.7_1,Chhattisgarh,IND.7.27_1,Uttar Bastar Kanker,,,0.0,
+IND,2,IND,,IND.8_1,Dadra and Nagar Haveli,IND.8.1_1,Dadra and Nagar Haveli,,,0.0,
+IND,2,IND,,IND.9_1,Daman and Diu,IND.9.1_1,Daman,,,0.0,
+IND,2,IND,,IND.9_1,Daman and Diu,IND.9.2_1,Diu,,,0.0,
+IND,2,IND,,IND.10_1,Goa,IND.10.1_1,North Goa,,,0.0,
+IND,2,IND,,IND.10_1,Goa,IND.10.2_1,South Goa,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.1_1,Ahmadabad,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.2_1,Amreli,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.3_1,Anand,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.4_1,Aravalli,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.5_1,Banas Kantha,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.6_1,Bharuch,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.7_1,Bhavnagar,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.8_1,Botad,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.9_1,Chhota Udaipur,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.10_1,Dahod,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.11_1,Devbhumi Dwarka,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.12_1,Gandhinagar,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.13_1,Gir Somnath,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.14_1,Jamnagar,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.15_1,Junagadh,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.16_1,Kachchh,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.17_1,Kheda,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.18_1,Mahesana,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.19_1,Mahisagar,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.20_1,Morbi,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.21_1,Narmada,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.22_1,Navsari,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.23_1,Panch Mahals,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.24_1,Patan,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.25_1,Porbandar,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.26_1,Rajkot,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.27_1,Sabar Kantha,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.28_1,Surat,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.29_1,Surendranagar,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.30_1,Tapi,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.31_1,The Dangs,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.32_1,Vadodara,,,0.0,
+IND,2,IND,,IND.11_1,Gujarat,IND.11.33_1,Valsad,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.1_1,Ambala,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.2_1,Bhiwani,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.3_1,Faridabad,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.4_1,Fatehabad,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.5_1,Gurgaon,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.6_1,Hisar,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.7_1,Jhajjar,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.8_1,Jind,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.9_1,Kaithal,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.10_1,Karnal,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.11_1,Kurukshetra,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.12_1,Mahendragarh,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.13_1,Mewat,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.14_1,Palwal,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.15_1,Panchkula,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.16_1,Panipat,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.17_1,Rewari,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.18_1,Rohtak,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.19_1,Sirsa,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.20_1,Sonipat,,,0.0,
+IND,2,IND,,IND.12_1,Haryana,IND.12.21_1,Yamunanagar,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.1_1,Bilaspur,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.2_1,Chamba,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.3_1,Hamirpur,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.4_1,Kangra,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.5_1,Kinnaur,,,0.33,
+IND,2,Z04,,Z04.13_1,Himachal Pradesh,Z04.13.5_1,Kinnaur,,,0.0,
+IND,2,Z09,,Z09.13_1,Himachal Pradesh,Z09.13.5_1,Kinnaur,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.6_1,Kullu,,,13.91,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.7_1,Lahul & Spiti,,,0.06,
+IND,2,Z04,,Z04.13_1,Himachal Pradesh,Z04.13.7_1,Lahul & Spiti,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.8_1,Mandi,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.9_1,Shimla,,,0.57,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.10_1,Sirmaur,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.11_1,Solan,,,0.0,
+IND,2,IND,,IND.13_1,Himachal Pradesh,IND.13.12_1,Una,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.1_1,Anantnag,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.2_1,Badgam,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.3_1,Bandipore,,,0.6,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.4_1,Baramulla,,,1.35,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.5_1,Doda,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.6_1,Ganderbal,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.7_1,Jammu,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.8_1,Kargil,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.9_1,Kathua,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.10_1,Kishtwar,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.11_1,Kulgam,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.12_1,Kupwara,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.13_1,Leh (Ladakh),,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.14_1,Poonch,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.15_1,Pulwama,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.16_1,Rajouri,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.17_1,Ramban,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.18_1,Reasi,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.19_1,Samba,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.20_1,Shupiyan,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.21_1,Srinagar,,,0.0,
+IND,2,Z01,,Z01.14_1,Jammu and Kashmir,Z01.14.22_1,Udhampur,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.1_1,Bokaro,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.2_1,Chatra,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.3_1,Deoghar,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.4_1,Dhanbad,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.5_1,Dumka,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.6_1,Garhwa,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.7_1,Giridih,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.8_1,Godda,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.9_1,Gumla,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.10_1,Hazaribagh,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.11_1,Jamtara,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.12_1,Khunti,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.13_1,Kodarma,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.14_1,Latehar,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.15_1,Lohardaga,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.16_1,Pakur,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.17_1,Palamu,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.18_1,Pashchimi Singhbhum,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.19_1,Purbi Singhbhum,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.20_1,Ramgarh,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.21_1,Ranchi,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.22_1,Sahibganj,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.23_1,Saraikela-kharsawan,,,0.0,
+IND,2,IND,,IND.15_1,Jharkhand,IND.15.24_1,Simdega,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.1_1,Bagalkot,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.3_1,Bangalore,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.2_1,Bangalore Rural,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.4_1,Belgaum,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.5_1,Bellary,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.6_1,Bidar,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.7_1,Bijapur,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.8_1,Chamrajnagar,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.9_1,Chikballapura,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.10_1,Chikmagalur,,,5.79,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.11_1,Chitradurga,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.12_1,Dakshina Kannada,,,4.09,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.13_1,Davanagere,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.14_1,Dharwad,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.15_1,Gadag,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.16_1,Gulbarga,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.17_1,Hassan,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.18_1,Haveri,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.19_1,Kodagu,,,16.86,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.20_1,Kolar,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.21_1,Koppal,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.22_1,Mandya,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.23_1,Mysore,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.24_1,Raichur,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.25_1,Ramanagara,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.26_1,Shimoga,,,1.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.27_1,Tumkur,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.28_1,Udupi,,,8.79,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.29_1,Uttara Kannada,,,0.0,
+IND,2,IND,,IND.16_1,Karnataka,IND.16.30_1,Yadgir,,,0.0,
+IND,2,IND,,IND.17_1,Kerala,IND.17.1_1,Alappuzha,,,0.0,
+IND,2,IND,,IND.17_1,Kerala,IND.17.2_1,Ernakulam,,,0.0,
+IND,2,IND,,IND.17_1,Kerala,IND.17.3_1,Idukki,,,18.52,
+IND,2,IND,,IND.17_1,Kerala,IND.17.4_1,Kannur,,,1.88,
+IND,2,IND,,IND.17_1,Kerala,IND.17.5_1,Kasaragod,,,0.03,
+IND,2,IND,,IND.17_1,Kerala,IND.17.6_1,Kollam,,,15.5,
+IND,2,IND,,IND.17_1,Kerala,IND.17.7_1,Kottayam,,,0.06,
+IND,2,IND,,IND.17_1,Kerala,IND.17.8_1,Kozhikode,,,0.0,
+IND,2,IND,,IND.17_1,Kerala,IND.17.9_1,Malappuram,,,9.91,
+IND,2,IND,,IND.17_1,Kerala,IND.17.10_1,Palakkad,,,3.46,
+IND,2,IND,,IND.17_1,Kerala,IND.17.11_1,Pathanamthitta,,,43.56,
+IND,2,IND,,IND.17_1,Kerala,IND.17.12_1,Thiruvananthapuram,,,15.23,
+IND,2,IND,,IND.17_1,Kerala,IND.17.13_1,Thrissur,,,0.0,
+IND,2,IND,,IND.17_1,Kerala,IND.17.14_1,Wayanad,,,0.03,
+IND,2,IND,,IND.18_1,Lakshadweep,IND.18.1_1,Lakshadweep,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.1_1,Agar Malwa,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.2_1,Alirajpur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.3_1,Anuppur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.4_1,Ashoknagar,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.5_1,Balaghat,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.6_1,Barwani,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.7_1,Betul,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.8_1,Bhind,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.9_1,Bhopal,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.10_1,Burhanpur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.11_1,Chhatarpur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.12_1,Chhindwara,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.13_1,Damoh,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.14_1,Datia,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.15_1,Dewas,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.16_1,Dhar,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.17_1,Dindori,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.18_1,East Nimar,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.19_1,Guna,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.20_1,Gwalior,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.21_1,Harda,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.22_1,Hoshangabad,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.23_1,Indore,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.24_1,Jabalpur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.25_1,Jhabua,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.26_1,Katni,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.27_1,Mandla,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.28_1,Mandsaur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.29_1,Morena,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.30_1,Narsimhapur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.31_1,Neemuch,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.32_1,Panna,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.33_1,Raisen,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.34_1,Rajgarh,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.35_1,Ratlam,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.36_1,Rewa,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.37_1,Sagar,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.38_1,Satna,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.39_1,Sehore,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.40_1,Seoni,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.41_1,Shahdol,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.42_1,Shajapur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.43_1,Sheopur,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.44_1,Shivpuri,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.45_1,Sidhi,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.46_1,Singrauli,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.47_1,Tikamgarh,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.48_1,Ujjain,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.49_1,Umaria,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.50_1,Vidisha,,,0.0,
+IND,2,IND,,IND.19_1,Madhya Pradesh,IND.19.51_1,West Nimar,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.1_1,Ahmadnagar,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.2_1,Akola,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.3_1,Amravati,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.4_1,Aurangabad,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.5_1,Bhandara,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.6_1,Bid,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.7_1,Buldana,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.8_1,Chandrapur,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.9_1,Dhule,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.10_1,Garhchiroli,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.11_1,Gondiya,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.12_1,Hingoli,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.13_1,Jalgaon,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.14_1,Jalna,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.15_1,Kolhapur,,,6.37,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.16_1,Latur,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.17_1,Mumbai City,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.18_1,Mumbai Suburban,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.19_1,Nagpur,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.20_1,Nanded,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.21_1,Nandurbar,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.22_1,Nashik,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.23_1,Osmanabad,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.24_1,Palghar,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.25_1,Parbhani,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.26_1,Pune,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.27_1,Raigarh,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.28_1,Ratnagiri,,,1.08,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.29_1,Sangli,,,1.68,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.30_1,Satara,,,4.08,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.31_1,Sindhudurg,,,0.78,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.32_1,Solapur,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.33_1,Thane,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.34_1,Wardha,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.35_1,Washim,,,0.0,
+IND,2,IND,,IND.20_1,Maharashtra,IND.20.36_1,Yavatmal,,,0.0,
+IND,2,IND,,IND.21_1,Manipur,IND.21.1_1,Bishnupur,,,37.87,
+IND,2,IND,,IND.21_1,Manipur,IND.21.2_1,Chandel,,,0.0,
+IND,2,IND,,IND.21_1,Manipur,IND.21.3_1,Churachandpur,,,0.0,
+IND,2,IND,,IND.21_1,Manipur,IND.21.4_1,Imphal East,,,0.0,
+IND,2,IND,,IND.21_1,Manipur,IND.21.5_1,Imphal West,,,10.01,
+IND,2,IND,,IND.21_1,Manipur,IND.21.6_1,Senapati,,,0.0,
+IND,2,IND,,IND.21_1,Manipur,IND.21.7_1,Tamenglong,,,0.0,
+IND,2,IND,,IND.21_1,Manipur,IND.21.8_1,Thoubal,,,5.69,
+IND,2,IND,,IND.21_1,Manipur,IND.21.9_1,Ukhrul,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.1_1,East Garo Hills,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.2_1,East Khasi Hills,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.3_1,Jaintia Hills,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.4_1,North Garo Hills,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.5_1,Ri Bhoi,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.6_1,South Garo Hills,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.7_1,South West Garo Hills,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.8_1,South West Khasi Hills,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.9_1,West Garo Hills,,,0.0,
+IND,2,IND,,IND.22_1,Meghalaya,IND.22.10_1,West Khasi Hills,,,0.0,
+IND,2,IND,,IND.23_1,Mizoram,IND.23.1_1,Aizawl,,,0.0,
+IND,2,IND,,IND.23_1,Mizoram,IND.23.2_1,Champhai,,,0.0,
+IND,2,IND,,IND.23_1,Mizoram,IND.23.3_1,Kolasib,,,0.0,
+IND,2,IND,,IND.23_1,Mizoram,IND.23.4_1,Lawangtlai,,,0.0,
+IND,2,IND,,IND.23_1,Mizoram,IND.23.5_1,Lunglei,,,0.0,
+IND,2,IND,,IND.23_1,Mizoram,IND.23.6_1,Mamit,,,0.0,
+IND,2,IND,,IND.23_1,Mizoram,IND.23.7_1,Saiha,,,0.0,
+IND,2,IND,,IND.23_1,Mizoram,IND.23.8_1,Serchhip,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.1_1,Dimapur,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.2_1,Kiphire,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.3_1,Kohima,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.4_1,Longleng,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.5_1,Mokokchung,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.6_1,Mon,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.7_1,Peren,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.8_1,Phek,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.9_1,Tuensang,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.10_1,Wokha,,,0.0,
+IND,2,IND,,IND.24_1,Nagaland,IND.24.11_1,Zunheboto,,,0.0,
+IND,2,IND,,IND.25_1,NCT of Delhi,IND.25.1_1,West,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.1_1,Anugul,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.2_1,Balangir,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.3_1,Baleshwar,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.4_1,Bargarh,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.5_1,Bauda,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.6_1,Bhadrak,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.7_1,Cuttack,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.8_1,Debagarh,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.9_1,Dhenkanal,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.10_1,Gajapati,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.11_1,Ganjam,,,0.11,
+IND,2,IND,,IND.26_1,Odisha,IND.26.12_1,Jagatsinghapur,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.13_1,Jajapur,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.14_1,Jharsuguda,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.15_1,Kalahandi,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.16_1,Kandhamal,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.17_1,Kendrapara,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.18_1,Kendujhar,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.19_1,Khordha,,,2.47,
+IND,2,IND,,IND.26_1,Odisha,IND.26.20_1,Koraput,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.21_1,Malkangiri,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.22_1,Mayurbhanj,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.23_1,Nabarangapur,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.24_1,Nayagarh,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.25_1,Nuapada,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.26_1,Puri,,,33.45,
+IND,2,IND,,IND.26_1,Odisha,IND.26.27_1,Rayagada,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.28_1,Sambalpur,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.29_1,Subarnapur,,,0.0,
+IND,2,IND,,IND.26_1,Odisha,IND.26.30_1,Sundargarh,,,0.0,
+IND,2,IND,,IND.27_1,Puducherry,IND.27.1_1,Karaikal,,,0.0,
+IND,2,IND,,IND.27_1,Puducherry,IND.27.2_1,Mahe,,,0.0,
+IND,2,IND,,IND.27_1,Puducherry,IND.27.3_1,Puducherry,,,0.0,
+IND,2,IND,,IND.27_1,Puducherry,IND.27.4_1,Yanam,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.1_1,Amritsar,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.2_1,Barnala,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.3_1,Bathinda,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.4_1,Faridkot,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.5_1,Fatehgarh Sahib,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.6_1,Fazilka,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.7_1,Firozpur,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.8_1,Gurdaspur,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.9_1,Hoshiarpur,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.10_1,Jalandhar,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.11_1,Kapurthala,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.12_1,Ludhiana,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.13_1,Mansa,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.14_1,Moga,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.15_1,Muktsar,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.16_1,Pathankot,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.17_1,Patiala,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.18_1,Rupnagar,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.19_1,Sahibzada Ajit Singh Nagar,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.20_1,Sangrur,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.21_1,Shahid Bhagat Singh Nagar,,,0.0,
+IND,2,IND,,IND.28_1,Punjab,IND.28.22_1,Tarn Taran,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.1_1,Ajmer,,,0.01,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.2_1,Alwar,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.3_1,Banswara,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.4_1,Baran,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.5_1,Barmer,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.6_1,Bharatpur,,,0.74,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.7_1,Bhilwara,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.8_1,Bikaner,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.9_1,Bundi,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.10_1,Chittaurgarh,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.11_1,Churu,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.12_1,Dausa,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.13_1,Dhaulpur,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.14_1,Dungarpur,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.15_1,Ganganagar,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.16_1,Hanumangarh,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.17_1,Jaipur,,,0.67,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.18_1,Jaisalmer,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.19_1,Jalor,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.20_1,Jhalawar,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.21_1,Jhunjhunun,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.22_1,Jodhpur,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.23_1,Karauli,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.24_1,Kota,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.25_1,Nagaur,,,0.69,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.26_1,Pali,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.27_1,Pratapgarh,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.28_1,Rajsamand,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.29_1,Sawai Madhopur,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.30_1,Sikar,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.31_1,Sirohi,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.32_1,Tonk,,,0.0,
+IND,2,IND,,IND.29_1,Rajasthan,IND.29.33_1,Udaipur,,,0.0,
+IND,2,IND,,IND.30_1,Sikkim,IND.30.1_1,East Sikkim,,,0.0,
+IND,2,IND,,IND.30_1,Sikkim,IND.30.2_1,North Sikkim,,,31.98,
+IND,2,IND,,IND.30_1,Sikkim,IND.30.3_1,South Sikkim,,,8.26,
+IND,2,IND,,IND.30_1,Sikkim,IND.30.4_1,West Sikkim,,,27.34,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.1_1,Ariyalur,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.2_1,Chennai,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.3_1,Coimbatore,,,0.86,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.4_1,Cuddalore,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.5_1,Dharmapuri,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.6_1,Dindigul,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.7_1,Erode,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.8_1,Kancheepuram,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.9_1,Kanniyakumari,,,0.77,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.10_1,Karur,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.11_1,Krishnagiri,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.12_1,Madurai,,,5.17,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.13_1,Nagappattinam,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.14_1,Namakkal,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.15_1,Perambalur,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.16_1,Pudukkottai,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.17_1,Ramanathapuram,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.18_1,Salem,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.19_1,Sivaganga,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.20_1,Thanjavur,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.21_1,The Nilgiris,,,4.15,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.22_1,Theni,,,1.66,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.23_1,Thiruvallur,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.24_1,Thiruvarur,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.25_1,Thoothukkudi,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.26_1,Tiruchirappalli,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.27_1,Tirunelveli,,,17.49,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.28_1,Tiruppur,,,0.71,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.29_1,Tiruvannamalai,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.30_1,Vellore,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.31_1,Viluppuram,,,0.0,
+IND,2,IND,,IND.31_1,Tamil Nadu,IND.31.32_1,Virudunagar,,,6.76,
+IND,2,IND,,IND.32_1,Telangana,IND.32.1_1,Adilabad,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.2_1,Hyderabad,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.3_1,Karimnagar,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.4_1,Khammam,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.5_1,Mahbubnagar,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.6_1,Medak,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.7_1,Nalgonda,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.8_1,Nizamabad,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.9_1,Ranga Reddy,,,0.0,
+IND,2,IND,,IND.32_1,Telangana,IND.32.10_1,Warangal,,,0.0,
+IND,2,IND,,IND.33_1,Tripura,IND.33.1_1,Dhalai,,,0.0,
+IND,2,IND,,IND.33_1,Tripura,IND.33.2_1,Gomati,,,0.0,
+IND,2,IND,,IND.33_1,Tripura,IND.33.3_1,Khowai,,,0.0,
+IND,2,IND,,IND.33_1,Tripura,IND.33.4_1,North Tripura,,,0.0,
+IND,2,IND,,IND.33_1,Tripura,IND.33.5_1,Sipahijala,,,0.0,
+IND,2,IND,,IND.33_1,Tripura,IND.33.6_1,South Tripura,,,0.0,
+IND,2,IND,,IND.33_1,Tripura,IND.33.7_1,Unokoti,,,0.0,
+IND,2,IND,,IND.33_1,Tripura,IND.33.8_1,West Tripura,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.1_1,Agra,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.2_1,Aligarh,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.3_1,Allahabad,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.4_1,Ambedkar Nagar,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.5_1,Amethi,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.6_1,Amroha,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.7_1,Auraiya,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.8_1,Azamgarh,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.9_1,Baghpat,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.10_1,Bahraich,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.11_1,Ballia,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.12_1,Balrampur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.13_1,Banda,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.14_1,Barabanki,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.15_1,Bareilly,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.16_1,Basti,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.17_1,Bijnor,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.18_1,Budaun,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.19_1,Bulandshahr,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.20_1,Chandauli,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.21_1,Chitrakoot,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.22_1,Deoria,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.23_1,Etah,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.24_1,Etawah,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.25_1,Faizabad,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.26_1,Farrukhabad,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.27_1,Fatehpur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.28_1,Firozabad,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.29_1,Gautam Buddha Nagar,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.30_1,Ghaziabad,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.31_1,Ghazipur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.32_1,Gonda,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.33_1,Gorakhpur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.34_1,Hamirpur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.35_1,Hapur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.36_1,Hardoi,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.37_1,Hathras,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.38_1,Jalaun,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.39_1,Jaunpur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.40_1,Jhansi,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.41_1,Kannauj,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.42_1,Kanpur Dehat,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.43_1,Kanpur Nagar,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.44_1,Kasganj,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.45_1,Kaushambi,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.46_1,Kushinagar,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.47_1,Lakhimpur Kheri,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.48_1,Lalitpur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.49_1,Lucknow,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.50_1,Maharajganj,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.51_1,Mahoba,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.52_1,Mainpuri,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.53_1,Mathura,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.54_1,Mau,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.55_1,Meerut,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.56_1,Mirzapur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.57_1,Moradabad,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.58_1,Muzaffarnagar,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.59_1,Pilibhit,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.60_1,Pratapgarh,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.61_1,Rae Bareli,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.62_1,Rampur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.63_1,Saharanpur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.64_1,Sambhal,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.65_1,Sant Kabir Nagar,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.66_1,Sant Ravi Das Nagar,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.67_1,Shahjahanpur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.68_1,Shamli,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.69_1,Shravasti,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.70_1,Siddharth Nagar,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.71_1,Sitapur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.72_1,Sonbhadra,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.73_1,Sultanpur,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.74_1,Unnao,,,0.0,
+IND,2,IND,,IND.34_1,Uttar Pradesh,IND.34.75_1,Varanasi,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.1_1,Almora,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.2_1,Bageshwar,,,20.2,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.3_1,Chamoli,,,48.15,
+IND,2,Z05,,Z05.35_1,Uttarakhand,Z05.35.3_1,Chamoli,,,98.9,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.4_1,Champawat,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.5_1,Dehradun,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.6_1,Garhwal,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.7_1,Hardwar,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.8_1,Nainital,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.9_1,Pithoragarh,,,15.02,
+IND,2,Z05,,Z05.35_1,Uttarakhand,Z05.35.9_1,Pithoragarh,,,96.58,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.10_1,Rudraprayag,,,0.24,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.11_1,Tehri Garhwal,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.12_1,Udham Singh Nagar,,,0.0,
+IND,2,IND,,IND.35_1,Uttarakhand,IND.35.13_1,Uttarkashi,,,0.08,
+IND,2,Z09,,Z09.35_1,Uttarakhand,Z09.35.13_1,Uttarkashi,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.1_1,Alipurduar,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.2_1,Bankura,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.3_1,Barddhaman,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.4_1,Birbhum,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.5_1,Dakshin Dinajpur,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.6_1,Darjiling,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.7_1,Haora,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.8_1,Hugli,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.9_1,Jalpaiguri,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.10_1,Koch Bihar,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.11_1,Kolkata,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.12_1,Maldah,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.13_1,Murshidabad,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.14_1,Nadia,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.15_1,North 24 Parganas,,,14.35,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.16_1,Pashchim Medinipur,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.17_1,Purba Medinipur,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.18_1,Puruliya,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.19_1,South 24 Parganas,,,0.0,
+IND,2,IND,,IND.36_1,West Bengal,IND.36.20_1,Uttar Dinajpur,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.1_1,Addalachchenai,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.2_1,Akkaraipattu,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.3_1,Alayadiwembu,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.4_1,Ampara,,,26.32,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.5_1,Damana,,,44.34,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.6_1,Dehiattakandiya,,,40.5,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.7_1,Eragama,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.8_1,Kalmunai,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.9_1,Karativu,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.10_1,Lahugala,,,83.75,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.11_1,Mahaoya,,,62.04,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.12_1,Navithanveli,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.13_1,Ninthavur,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.14_1,Padiyathalawa,,,40.3,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.15_1,Pothuvil,,,33.63,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.16_1,Sainthamarathu,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.17_1,Samanthurai,,,0.0,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.18_1,Thirukkovil,,,41.91,
+LKA,2,LKA,,LKA.1_1,Ampara,LKA.1.19_1,Uhana,,,43.73,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.1_1,Galenbindunuwewa,,,1.42,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.2_1,Galnewa,,,17.09,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.3_1,Horowpothana,,,17.18,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.4_1,Ipalogama,,,1.47,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.5_1,Kahatagasdigiliya,,,5.64,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.6_1,Kebithigollewa,,,42.63,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.7_1,Kekirawa,,,15.05,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.8_1,Maha Vilachchiya,,,55.92,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.9_1,Medawachchiya,,,14.24,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.10_1,Mihinthale,,,21.48,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.11_1,N. Palatha Central,,,9.11,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.12_1,N. Palatha East,,,0.0,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.13_1,Nachchadoowa,,,0.78,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.14_1,Nochchiyagama,,,54.96,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.15_1,Padaviya,,,18.75,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.16_1,Palagala,,,44.18,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.17_1,Palugaswewa,,,17.81,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.18_1,Rajanganaya,,,0.0,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.19_1,Rambewa,,,4.61,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.20_1,Thalawa,,,9.06,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.21_1,Thambuttegama,,,0.0,
+LKA,2,LKA,,LKA.2_1,Anuradhapura,LKA.2.22_1,Thirappane,,,7.69,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.1_1,Badulla,,,0.2,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.2_1,Bandarawela,,,1.38,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.3_1,Ella,,,2.02,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.4_1,Hali-Ela,,,0.91,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.5_1,Haputale,,,2.66,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.6_1,Hildummulla,,,55.64,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.7_1,Kandaketiya,,,25.94,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.8_1,Lunugala,,,4.27,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.9_1,Mahiyanganaya,,,38.1,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.10_1,Meegahakivula,,,8.6,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.11_1,Passara,,,2.66,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.12_1,Rideemaliyadda,,,5.96,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.13_1,Soranathota,,,1.16,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.14_1,Uva Paranagama,,,0.72,
+LKA,2,LKA,,LKA.3_1,Badulla,LKA.3.15_1,Welimada,,,15.88,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.1_1,Eravur Pattu,,,42.98,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.2_1,Eravur Town,,,0.0,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.3_1,Kattankudy,,,0.0,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.4_1,Koralai Pattu (Valachchenai),,,49.73,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.5_1,Koralai Pattu North,,,59.55,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.6_1,Koralai Pattu West (Oddamavadi),,,33.66,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.7_1,Manmunai North,,,0.0,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.8_1,Manmunai Pattu (Araipattai),,,0.0,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.9_1,Manmunai South-West,,,16.78,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.10_1,Manmunai South and Eruvilpattu,,,0.0,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.11_1,Manmunai West,,,27.16,
+LKA,2,LKA,,LKA.4_1,Batticaloa,LKA.4.12_1,Porativu Pattu,,,0.0,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.1_1,Colombo,,,0.0,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.2_1,Dehiwala-Mount Lavinia,,,11.63,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.3_1,Hanwella,,,2.01,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.4_1,Homagama,,,0.0,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.5_1,Kaduwela,,,2.3,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.6_1,Kesbewa,,,1.48,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.7_1,Kolonnawa,,,0.0,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.8_1,Maharagama,,,2.06,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.9_1,Moratuwa,,,0.02,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.10_1,Padukka,,,13.21,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.11_1,Sri Jayawardanapura Kotte,,,25.81,
+LKA,2,LKA,,LKA.5_1,Colombo,LKA.5.12_1,Thimbirigasyaya,,,0.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.1_1,Akmeemana,,,1.68,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.2_1,Ambalangoda,,,7.99,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.3_1,Baddegama,,,0.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.4_1,Balapitiya,,,0.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.5_1,Bentota,,,0.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.6_1,Bope-Poddala,,,0.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.7_1,Elpitiya,,,0.42,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.8_1,Galle Four Gravets,,,0.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.9_1,Habaraduwa,,,1.13,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.10_1,Hikkaduwa,,,18.74,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.11_1,Imaduwa,,,5.03,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.12_1,Karandeniya,,,0.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.13_1,Nagoda,,,17.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.14_1,Neluwa,,,23.99,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.15_1,Niyagama,,,10.63,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.16_1,Thawalama,,,37.34,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.17_1,Welivitiya-Divithura,,,0.0,
+LKA,2,LKA,,LKA.6_1,Galle,LKA.6.18_1,Yakkalamulla,,,4.35,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.1_1,Attanagalla,,,2.34,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.2_1,Biyagama,,,0.0,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.3_1,Divulapitiya,,,0.06,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.4_1,Dompe,,,2.41,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.5_1,Gampaha,,,0.0,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.6_1,Ja-Ela,,,2.33,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.7_1,Katana,,,0.63,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.8_1,Kelaniya,,,0.0,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.9_1,Mahara,,,0.0,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.10_1,Minuwangoda,,,0.0,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.11_1,Mirigama,,,1.85,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.12_1,Negombo,,,0.0,
+LKA,2,LKA,,LKA.7_1,Gampaha,LKA.7.13_1,Wattala,,,7.29,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.1_1,Ambalanthota,,,4.29,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.2_1,Angunakolapelessa,,,3.88,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.3_1,Beliatta,,,0.0,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.4_1,Hambantota,,,13.09,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.5_1,Katuwana,,,10.26,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.6_1,Lunugamvehera,,,39.94,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.7_1,Okewela,,,3.82,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.8_1,Sooriyawewa,,,16.59,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.9_1,Tangalle,,,0.01,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.10_1,Thissamaharama,,,67.95,
+LKA,2,LKA,,LKA.8_1,Hambantota,LKA.8.11_1,Weeraketiya,,,1.65,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.1_1,Delft,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.2_1,Island South (Velanai),,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.3_1,Islands North (Kayts),,,0.56,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.4_1,Jaffna,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.5_1,Nallur,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.6_1,Thenmaradchy (Chavakachcheri),,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.7_1,Vadamaradchi South-West,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.8_1,Vadamaradchy East,,,5.55,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.9_1,Vadamaradchy North,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.10_1,Valikamam East,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.11_1,Valikamam North,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.12_1,Valikamam South,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.13_1,Valikamam South-West,,,0.0,
+LKA,2,LKA,,LKA.9_1,Jaffna,LKA.9.14_1,Valikamam West,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.1_1,Agalawatta,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.2_1,Bandaragama,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.3_1,Beruwala,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.4_1,Bulathsinhala,,,1.52,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.5_1,Dodangoda,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.6_1,Horana,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.7_1,Ingiriya,,,5.02,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.8_1,Kalutara,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.9_1,Madurawala,,,0.55,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.10_1,Mathugama,,,0.19,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.11_1,Millaniya,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.12_1,Palindanuwara,,,0.17,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.13_1,Panadura,,,0.0,
+LKA,2,LKA,,LKA.10_1,Kalutara,LKA.10.14_1,Walallawita,,,17.04,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.1_1,Akurana,,,0.0,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.2_1,Delthota,,,0.0,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.3_1,Doluwa,,,0.08,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.4_1,Ganga Ihala Korale,,,1.81,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.5_1,Harispattuwa,,,0.14,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.6_1,Hatharaliyadda,,,0.1,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.7_1,K.F.G. & G. Korale,,,4.55,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.8_1,Kundasale,,,10.82,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.9_1,Medadumbara,,,43.26,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.10_1,Minipe,,,50.92,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.11_1,Panvila,,,39.19,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.12_1,Pasbage Korale,,,4.4,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.13_1,Pathadumbara,,,4.93,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.14_1,Pathahewaheta,,,10.78,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.15_1,Poojapitiya,,,0.0,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.16_1,Thumpane,,,2.34,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.17_1,Udadumbara,,,74.25,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.18_1,Udapalatha,,,0.0,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.19_1,Udunuwara,,,0.0,
+LKA,2,LKA,,LKA.11_1,Kandy,LKA.11.20_1,Yatinuwara,,,0.16,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.1_1,Aranayaka,,,1.89,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.2_1,Bulathkohupitiya,,,0.39,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.3_1,Dehiovita,,,2.05,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.4_1,Deraniyagala,,,24.53,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.5_1,Galigamuwa,,,0.46,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.6_1,Kegalle,,,5.25,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.7_1,Mawanella,,,0.54,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.8_1,Rambukkana,,,4.25,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.9_1,Ruwanwella,,,0.25,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.10_1,Warakapola,,,1.14,
+LKA,2,LKA,,LKA.12_1,Kegalle,LKA.12.11_1,Yatiyanthota,,,1.23,
+LKA,2,LKA,,LKA.13_1,Kilinochchi,LKA.13.1_1,Kandawali,,,9.31,
+LKA,2,LKA,,LKA.13_1,Kilinochchi,LKA.13.2_1,Karachchi,,,75.36,
+LKA,2,LKA,,LKA.13_1,Kilinochchi,LKA.13.3_1,Pachchilaipalli,,,2.03,
+LKA,2,LKA,,LKA.13_1,Kilinochchi,LKA.13.4_1,Poonakary,,,48.95,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.1_1,Alawwa,,,5.45,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.2_1,Ambanpola,,,0.0,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.3_1,Bamunakotuwa,,,2.16,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.4_1,Bingiriya,,,0.34,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.5_1,Ehetuwewa,,,10.85,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.6_1,Galgamuwa,,,0.0,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.7_1,Ganewatta,,,6.85,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.8_1,Giribawa,,,2.35,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.9_1,Ibbagamuwa,,,18.31,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.10_1,Katupotha,,,2.04,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.11_1,Kobeigane,,,16.31,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.12_1,Kotavehera,,,0.0,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.13_1,Kuliyapitiya East,,,1.26,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.14_1,Kuliyapitiya West,,,1.53,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.15_1,Kurunegala,,,3.77,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.16_1,Mahawa,,,0.13,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.17_1,Mallawapitiya,,,5.92,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.18_1,Maspotha,,,11.61,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.19_1,Mawathagama,,,0.8,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.20_1,Narammala,,,0.21,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.21_1,Nikaweratiya,,,0.38,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.22_1,Panduwasnuwara,,,1.69,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.23_1,Pannala,,,3.95,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.24_1,Polgahawela,,,1.03,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.25_1,Polpithigama,,,35.0,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.26_1,Rasnayakapura,,,0.37,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.27_1,Rideegama,,,4.19,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.28_1,Udubaddawa,,,0.0,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.29_1,Wariyapola,,,1.33,
+LKA,2,LKA,,LKA.14_1,Kurunegala,LKA.14.30_1,Weerambugedara,,,0.93,
+LKA,2,LKA,,LKA.15_1,Mannar,LKA.15.1_1,Madhu,,,75.83,
+LKA,2,LKA,,LKA.15_1,Mannar,LKA.15.2_1,Mannar Town,,,0.0,
+LKA,2,LKA,,LKA.15_1,Mannar,LKA.15.3_1,Manthai West,,,59.49,
+LKA,2,LKA,,LKA.15_1,Mannar,LKA.15.4_1,Musali,,,70.46,
+LKA,2,LKA,,LKA.15_1,Mannar,LKA.15.5_1,Nanaddan,,,15.44,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.1_1,Ambanganga Korale,,,0.84,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.2_1,Dambulla,,,47.5,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.3_1,Galewela,,,5.6,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.4_1,Laggala-Pallegama,,,42.11,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.5_1,Matale,,,0.3,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.6_1,Naula,,,22.05,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.7_1,Pallepola,,,1.37,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.8_1,Rattota,,,16.11,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.9_1,Ukuwela,,,6.24,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.10_1,Wilgamuwa,,,53.47,
+LKA,2,LKA,,LKA.16_1,Matale,LKA.16.11_1,Yatawatta,,,0.09,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.1_1,Akuressa,,,31.78,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.2_1,Athuraliya,,,12.99,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.3_1,Devinuwara,,,10.19,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.4_1,Dickwella,,,0.04,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.5_1,Hakmana,,,4.51,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.6_1,Kamburupitiya,,,9.5,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.7_1,Kirinda-Puhulwella,,,15.05,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.8_1,Kotapola,,,18.51,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.9_1,Malimbada,,,1.89,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.10_1,Matara Four Gravets,,,10.88,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.11_1,Mulatiyana,,,21.11,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.12_1,Pasgoda,,,16.47,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.13_1,Pitabeddara,,,10.53,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.14_1,Thihagoda,,,6.95,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.15_1,Weligama,,,0.0,
+LKA,2,LKA,,LKA.17_1,Matara,LKA.17.16_1,Welipitiya,,,5.7,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.1_1,Badalkumbura,,,0.03,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.2_1,Bibile,,,28.02,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.3_1,Buttala,,,48.49,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.4_1,Katharagama,,,84.45,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.5_1,Madulla,,,42.46,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.6_1,Medagama,,,2.25,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.7_1,Moneragala,,,7.83,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.8_1,Sevanagala,,,0.91,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.9_1,Siyambalanduwa,,,39.62,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.10_1,Thanamalvila,,,52.52,
+LKA,2,LKA,,LKA.18_1,Moneragala,LKA.18.11_1,Wellawaya,,,26.42,
+LKA,2,LKA,,LKA.19_1,Mullaitivu,LKA.19.1_1,Manthai East,,,69.85,
+LKA,2,LKA,,LKA.19_1,Mullaitivu,LKA.19.2_1,Maritimepattu,,,45.26,
+LKA,2,LKA,,LKA.19_1,Mullaitivu,LKA.19.3_1,Oddusuddan,,,83.79,
+LKA,2,LKA,,LKA.19_1,Mullaitivu,LKA.19.4_1,Puthukudiyiruppu,,,43.25,
+LKA,2,LKA,,LKA.19_1,Mullaitivu,LKA.19.5_1,Thunukkai,,,46.18,
+LKA,2,LKA,,LKA.20_1,Nuwara Eliya,LKA.20.1_1,Ambagamuwa,,,12.28,
+LKA,2,LKA,,LKA.20_1,Nuwara Eliya,LKA.20.2_1,Hanguranketha,,,28.72,
+LKA,2,LKA,,LKA.20_1,Nuwara Eliya,LKA.20.3_1,Kothmale,,,9.3,
+LKA,2,LKA,,LKA.20_1,Nuwara Eliya,LKA.20.4_1,Nuwara Eliya,,,17.04,
+LKA,2,LKA,,LKA.20_1,Nuwara Eliya,LKA.20.5_1,Walapane,,,31.53,
+LKA,2,LKA,,LKA.21_1,Polonnaruwa,LKA.21.1_1,Dimbulagala,,,11.48,
+LKA,2,LKA,,LKA.21_1,Polonnaruwa,LKA.21.2_1,Elahera,,,50.48,
+LKA,2,LKA,,LKA.21_1,Polonnaruwa,LKA.21.3_1,Hingurakgoda,,,76.25,
+LKA,2,LKA,,LKA.21_1,Polonnaruwa,LKA.21.4_1,Lankapura,,,54.34,
+LKA,2,LKA,,LKA.21_1,Polonnaruwa,LKA.21.5_1,Medirigiriya,,,47.55,
+LKA,2,LKA,,LKA.21_1,Polonnaruwa,LKA.21.6_1,Thamankaduwa,,,61.62,
+LKA,2,LKA,,LKA.21_1,Polonnaruwa,LKA.21.7_1,Welikanda,,,39.02,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.1_1,Anamaduwa,,,3.01,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.2_1,Arachchikattuwa PS,,,12.0,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.3_1,Chilaw,,,0.14,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.4_1,Dankotuwa,,,0.29,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.5_1,Kalpitiya,,,0.0,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.6_1,Karuwalagaswewa,,,48.19,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.7_1,Madampe,,,4.35,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.8_1,Mahakumbukkadawala,,,0.37,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.9_1,Mahawewa,,,0.0,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.10_1,Mundalama,,,0.0,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.11_1,Nattandiya,,,0.0,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.12_1,Nawagattegama,,,33.74,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.13_1,Pallama,,,0.36,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.14_1,Puttalam,,,12.3,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.15_1,Vanathavilluwa,,,70.39,
+LKA,2,LKA,,LKA.22_1,Puttalam,LKA.22.16_1,Wennappuwa,,,0.0,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.1_1,Ayagama,,,0.11,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.2_1,Balangoda,,,19.34,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.3_1,Eheliyagoda,,,6.88,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.4_1,Elapatha,,,6.85,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.5_1,Embilipitiya,,,7.73,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.6_1,Godakawela,,,1.52,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.7_1,Imbulpe,,,21.56,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.8_1,Kahawatta,,,3.22,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.9_1,Kalawana,,,23.7,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.10_1,Kiriella,,,1.81,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.11_1,Kolonna,,,0.66,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.12_1,Kuruvita,,,1.31,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.13_1,Nivithigala,,,1.3,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.14_1,Opanayaka,,,0.0,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.15_1,Pelmadulla,,,0.96,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.16_1,Ratnapura,,,34.56,
+LKA,2,LKA,,LKA.23_1,Ratnapura,LKA.23.17_1,Weligepola,,,30.5,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.1_1,Gomarankadawala,,,53.4,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.2_1,Kantalai,,,56.83,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.3_1,Kinniya,,,24.62,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.4_1,Kuchchaveli,,,31.72,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.5_1,Morawewa,,,78.03,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.6_1,Muttur,,,0.09,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.7_1,Padavi Sri Pura,,,10.8,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.8_1,Seruvila,,,77.39,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.9_1,Thampalakamam,,,70.52,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.10_1,Trincomalee Town and Gravets,,,26.44,
+LKA,2,LKA,,LKA.24_1,Trincomalee,LKA.24.11_1,Verugal,,,30.3,
+LKA,2,LKA,,LKA.25_1,Vavuniya,LKA.25.1_1,Vavuniya,,,24.52,
+LKA,2,LKA,,LKA.25_1,Vavuniya,LKA.25.2_1,Vavuniya North,,,56.81,
+LKA,2,LKA,,LKA.25_1,Vavuniya,LKA.25.3_1,Vavuniya South,,,50.16,
+LKA,2,LKA,,LKA.25_1,Vavuniya,LKA.25.4_1,Vengalacheddiculam,,,12.32,
+NPL,2,NPL,,NPL.1_1,Central,NPL.1.1_1,Bagmati,,,28.24,
+NPL,2,NPL,,NPL.1_1,Central,NPL.1.2_1,Janakpur,,,18.31,
+NPL,2,NPL,,NPL.1_1,Central,NPL.1.3_1,Narayani,,,30.14,
+NPL,2,NPL,,NPL.2_1,East,NPL.2.1_1,Koshi,,,18.49,
+NPL,2,NPL,,NPL.2_1,East,NPL.2.2_1,Mechi,,,24.87,
+NPL,2,NPL,,NPL.2_1,East,NPL.2.3_1,Sagarmatha,,,20.32,
+NPL,2,NPL,,NPL.3_1,Far-Western,NPL.3.1_1,Mahakali,,,37.03,
+NPL,2,NPL,,NPL.3_1,Far-Western,NPL.3.2_1,Seti,,,3.75,
+NPL,2,NPL,,NPL.4_1,Mid-Western,NPL.4.1_1,Bheri,,,21.59,
+NPL,2,NPL,,NPL.4_1,Mid-Western,NPL.4.2_1,Karnali,,,24.37,
+NPL,2,NPL,,NPL.4_1,Mid-Western,NPL.4.3_1,Rapti,,,7.86,
+NPL,2,NPL,,NPL.5_1,West,NPL.5.1_1,Dhaualagiri,,,54.31,
+NPL,2,NPL,,NPL.5_1,West,NPL.5.2_1,Gandaki,,,46.12,
+NPL,2,NPL,,NPL.5_1,West,NPL.5.3_1,Lumbini,,,2.87,
+PAK,2,Z06,,Z06.1_1,Azad Kashmir,Z06.1.1_1,Azad Kashmir,,,1.97,
+PAK,2,PAK,,PAK.2_1,Balochistan,PAK.2.1_1,Kalat,,,4.42,
+PAK,2,PAK,,PAK.2_1,Balochistan,PAK.2.2_1,Makran,,,4.15,
+PAK,2,PAK,,PAK.2_1,Balochistan,PAK.2.3_1,Nasirabad,,,0.0,
+PAK,2,PAK,,PAK.2_1,Balochistan,PAK.2.4_1,Quetta,,,1.49,
+PAK,2,PAK,,PAK.2_1,Balochistan,PAK.2.5_1,Sibi,,,2.53,
+PAK,2,PAK,,PAK.2_1,Balochistan,PAK.2.6_1,Zhob,,,0.12,
+PAK,2,PAK,,PAK.3_1,Federally Administered Tribal Ar,PAK.3.1_1,F.A.T.A.,,,2.69,
+PAK,2,Z06,,Z06.6_1,Gilgit-Baltistan,Z06.6.1_1,Northern Areas,,,9.2,
+PAK,2,PAK,,PAK.4_1,Islamabad,PAK.4.1_1,Islamabad,,,10.03,
+PAK,2,PAK,,PAK.5_1,Khyber-Pakhtunkhwa,PAK.5.1_1,Bannu,,,0.86,
+PAK,2,PAK,,PAK.5_1,Khyber-Pakhtunkhwa,PAK.5.2_1,Dera Ismail Khan,,,0.0,
+PAK,2,PAK,,PAK.5_1,Khyber-Pakhtunkhwa,PAK.5.3_1,F.A.T.A.,,,0.0,
+PAK,2,PAK,,PAK.5_1,Khyber-Pakhtunkhwa,PAK.5.4_1,Hazara,,,1.86,
+PAK,2,PAK,,PAK.5_1,Khyber-Pakhtunkhwa,PAK.5.5_1,Kohat,,,7.72,
+PAK,2,PAK,,PAK.5_1,Khyber-Pakhtunkhwa,PAK.5.6_1,Malakand,,,1.98,
+PAK,2,PAK,,PAK.5_1,Khyber-Pakhtunkhwa,PAK.5.7_1,Mardan,,,3.45,
+PAK,2,PAK,,PAK.5_1,Khyber-Pakhtunkhwa,PAK.5.8_1,Peshawar,,,0.16,
+PAK,2,PAK,,PAK.7_1,Punjab,PAK.7.1_1,Bahawalpur,,,49.34,
+PAK,2,PAK,,PAK.7_1,Punjab,PAK.7.2_1,Dera Ghazi Khan,,,12.81,
+PAK,2,PAK,,PAK.7_1,Punjab,PAK.7.3_1,Faisalabad,,,0.05,
+PAK,2,PAK,,PAK.7_1,Punjab,PAK.7.4_1,Gujranwala,,,0.63,
+PAK,2,PAK,,PAK.7_1,Punjab,PAK.7.5_1,Lahore,,,0.0,
+PAK,2,PAK,,PAK.7_1,Punjab,PAK.7.6_1,Multan,,,0.49,
+PAK,2,PAK,,PAK.7_1,Punjab,PAK.7.7_1,Rawalpindi,,,3.42,
+PAK,2,PAK,,PAK.7_1,Punjab,PAK.7.8_1,Sargodha,,,33.62,
+PAK,2,PAK,,PAK.8_1,Sindh,PAK.8.1_1,Hyderabad,,,12.98,
+PAK,2,PAK,,PAK.8_1,Sindh,PAK.8.2_1,Karachi,,,32.54,
+PAK,2,PAK,,PAK.8_1,Sindh,PAK.8.3_1,Larkana,,,4.09,
+PAK,2,PAK,,PAK.8_1,Sindh,PAK.8.4_1,Mirpur Khas,,,24.13,
+PAK,2,PAK,,PAK.8_1,Sindh,PAK.8.5_1,Rann of Kutch,,,40.59,
+PAK,2,PAK,,PAK.8_1,Sindh,PAK.8.6_1,Sukkur,,,26.65,

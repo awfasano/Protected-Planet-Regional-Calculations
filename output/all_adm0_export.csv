@@ -1,7 +1,8 @@
-country_wb,geo_level,level0_name,level1_name,level2_name,value
-AFG,0,,,,3.62
-BGD,0,,,,10.48
-IND,0,,,,0.64
-LKA,0,,,,29.29
-NPL,0,,,,23.51
-PAK,0,,,,9.51
+country_wb,geo_level,level0_code,level0_name,level1_code,level1_name,level2_code,level2_name,indicator,indicator_label,value,year
+AFG,0,AFG,,,,,,,,3.62,
+BGD,0,BGD,,,,,,,,10.48,
+BTN,0,BTN,,,,,,,,52.34,
+IND,0,IND,,,,,,,,0.64,
+LKA,0,LKA,,,,,,,,29.29,
+NPL,0,NPL,,,,,,,,23.51,
+PAK,0,PAK,,,,,,,,9.51,
