@@ -298,10 +298,10 @@ def process_country(country_code, project_dir, output_dir):
     save_results(flat_pas, flat_pas_file)
 
     # STEP 4: Load admin boundaries
-    adm_folder = os.path.join(project_dir, f"{country_code}_shapefiles")
-    adm0_file = os.path.join(adm_folder, f"{country_code}_shp_0", f"gadm41_{country_code}_0.shp")
-    adm1_file = os.path.join(adm_folder, f"{country_code}_shp_1", f"gadm41_{country_code}_1.shp")
-    adm2_file = os.path.join(adm_folder, f"{country_code}_shp_2", f"gadm41_{country_code}_2.shp")
+    adm_folder = os.path.join(project_dir, "iso_shapefiles")
+    adm0_file = os.path.join(adm_folder, "iso_shp_0", "gadm41_iso_0.shp")
+    adm1_file = os.path.join(adm_folder, "iso_shp_1", "gadm41_iso_1.shp")
+    adm2_file = os.path.join(adm_folder, "iso_shp_2", "gadm41_iso_2.shp")
     print(f"Loading admin boundaries for {country_code} from {adm_folder}")
     try:
         adm0 = load_shapefile(adm0_file)
