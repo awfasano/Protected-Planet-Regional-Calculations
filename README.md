@@ -159,8 +159,3 @@ The script performs the following main tasks:
 - **Independent Territories:**  
   The ADM0 calculation for country-level coverage sums the areas of all admin boundary features (including independent territories) and all protected areas, ensuring that nothing is omitted.
 
-## References
-
-- **Protected Planet API Documentation:** https://api.protectedplanet.net
-- **Mollweide Projection:** https://proj.org/operations/projections/moll.html
-- **Buffering & Area Calculation in GIS:** Visconti et al. (2013), Venter et al. (2014), Butchart et al. (2015), and the 2018 Protected Planet Report.
