@@ -156,6 +156,4 @@ The script performs the following main tasks:
 - **Field Name Truncation:**  
   You might see warnings about field names being truncated when saving shapefiles. This is expected with the ESRI Shapefile format.
 
-- **Independent Territories:**  
-  The ADM0 calculation for country-level coverage sums the areas of all admin boundary features (including independent territories) and all protected areas, ensuring that nothing is omitted.
 
