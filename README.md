@@ -1,3 +1,12 @@
+### Summary
+
+This project calculates protected area coverage at national (ADM0), state (ADM1), and district (ADM2) levels by combining data from the Protected Planet API and GADM administrative boundaries. It fetches, processes, and buffers geometries, handles overlaps, and uses the Mollweide projection for accurate area measurement before exporting results as shapefiles and CSVs.  
+⚠️ *Note:* ADM0 totals may not match the [Protected Planet](https://www.protectedplanet.net/) website due to missing or disputed territories, but ADM1 and ADM2 calculations are unaffected and remain reliable.
+
+World Bank National Indicator and Methodology
+https://scorecard.worldbank.org/en/data/indicator-detail/ER_LND_HEAL?orgCode=ALL&refareatype=REGION&refareacode=ACW&age=_T&disability=_T&sex=_T
+
+
 # Protected Planet Administrative Coverage Analysis
 
 > ⚠️ *Note:*  
