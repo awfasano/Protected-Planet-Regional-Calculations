@@ -1,6 +1,6 @@
 ### Summary
 
-This project calculates protected area coverage at national (ADM0), state (ADM1), and district (ADM2) levels by combining data from the Protected Planet API and GADM administrative boundaries. It fetches, processes, and buffers geometries, handles overlaps, and uses the Mollweide projection for accurate area measurement before exporting results as shapefiles and CSVs.  
+This code calculates protected area coverage at national (ADM0), state (ADM1), and district (ADM2) levels by combining data from the Protected Planet API and GADM administrative boundaries. It fetches, processes, and buffers geometries, handles overlaps, and uses the Mollweide projection for accurate area measurement before exporting results as shapefiles and CSVs.  
 
 World Bank National Indicator and Methodology
 https://scorecard.worldbank.org/en/data/indicator-detail/ER_LND_HEAL?orgCode=ALL&refareatype=REGION&refareacode=ACW&age=_T&disability=_T&sex=_T
